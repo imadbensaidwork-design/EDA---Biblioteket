@@ -1,0 +1,1201 @@
+﻿loan_id,title,genre,media_type,branch,borrow_date,return_date,loan_days
+L0001,En annan värld,Deckare,Ljudbok,Stadsbiblioteket,2026-10-17,2026-11-09,23.0
+L0002,Bortom horisonten,Biografi,Bok,Stadsbiblioteket,2025-03-31,2025-04-23,23.0
+L0003,Skuggor i natten,Biografi,Ljudbok,Västerfilialen,2025-01-28,2025-02-11,14.0
+L0004,Vinter i staden,Historia,Bok,Stadsbiblioteket,2025-06-13,2025-07-07,24.0
+L0005,En annan värld,Deckare,Bok,Österfilialen,2025-04-15,2025-04-25,10.0
+L0006,Bortom horisonten,Poesi,Bok,Söderfilialen,2025-05-08,2025-05-21,13.0
+L0007,Livet mellan raderna,Biografi,Ljudbok,Stadsbiblioteket,2026-01-06,2026-01-27,21.0
+L0008,Vinter i staden,Roman,Bok,Österfilialen,2025-04-14,2025-05-10,26.0
+L0009,Livet mellan raderna,Historia,Ljudbok,Västerfilialen,2025-08-03,2025-09-01,29.0
+L0010,Livet mellan raderna,,Bok,Barnbiblioteket,2025-06-17,2025-07-12,25.0
+L0011,Livet mellan raderna,Barnböcker,Ljudbok,Stadsbiblioteket,2025-11-29,2025-12-25,26.0
+L0012,Barnens stora bok,Science fiction,Bok,Västerfilialen,2026-08-04,2026-08-26,22.0
+L0013,Bortom horisonten,Deckare,Bok,Västerfilialen,2026-04-15,2026-04-24,9.0
+L0014,Skuggor i natten,Roman,Tidskrift,Stadsbiblioteket,2026-02-13,2026-03-03,18.0
+L0015,Mysteriet vid sjön,Deckare,Bok,Västerfilialen,2025-04-23,2025-05-08,15.0
+L0016,Den sista resan,Fantasy,E-bok,Barnbiblioteket,2026-06-26,2026-07-13,17.0
+L0017,Röster från förr,Barnböcker,Ljudbok,Kulturhuset,2026-07-04,2026-08-30,57.0
+L0018,Barnens stora bok,Poesi,Ljudbok,Söderfilialen,2025-09-27,2025-10-21,24.0
+L0019,En annan värld,Barnböcker,Bok,Stadsbiblioteket,2025-11-02,2025-11-20,18.0
+L0020,Historien om oss,Biografi,Bok,Stadsbiblioteket,2025-01-01,2025-01-24,23.0
+L0021,En annan värld,Deckare,Ljudbok,Barnbiblioteket,2025-09-03,2025-09-30,27.0
+L0022,Bortom horisonten,Deckare,Bok,Söderfilialen,2025-05-09,2025-06-03,25.0
+L0023,Barnens stora bok,Poesi,Tidskrift,Västerfilialen,2026-03-10,2026-03-26,16.0
+L0024,Vinter i staden,Roman,Bok,Stadsbiblioteket,2026-01-18,2026-01-28,10.0
+L0025,Skuggor i natten,Biografi,Bok,Stadsbiblioteket,2025-01-22,2025-02-20,29.0
+L0026,Stjärnornas väg,Deckare,Bok,Västerfilialen,2025-12-05,2025-12-30,25.0
+L0027,Vinter i staden,Biografi,Bok,Söderfilialen,2026-08-08,2026-08-26,18.0
+L0028,Barnens stora bok,Roman,Ljudbok,Stadsbiblioteket,2026-03-10,2026-04-01,22.0
+L0029,Stjärnornas väg,Deckare,Ljudbok,Österfilialen,2025-04-11,2025-05-05,24.0
+L0030,En annan värld,Deckare,Bok,,2026-03-09,2026-04-01,23.0
+L0031,Stjärnornas väg,Deckare,Tidskrift,Österfilialen,2025-04-11,2025-05-17,36.0
+L0032,Skuggor i natten,Roman,Bok,Kulturhuset,2026-02-21,2026-04-06,44.0
+L0033,En annan värld,Fantasy,Ljudbok,,2026-02-04,2026-02-09,5.0
+L0034,En annan värld,Deckare,Bok,Barnbiblioteket,2026-05-14,2026-06-12,29.0
+L0035,En annan värld,Barnböcker,Bok,Söderfilialen,2025-03-04,2025-03-11,7.0
+L0036,Den hemliga trädgården,Barnböcker,Bok,Stadsbiblioteket,2025-03-24,2025-04-13,20.0
+L0037,Bortom horisonten,Poesi,E-bok,Söderfilialen,2025-05-03,2025-05-26,23.0
+L0038,Historien om oss,Fantasy,Bok,Västerfilialen,2026-06-20,2026-07-11,21.0
+L0039,Bortom horisonten,Deckare,E-bok,Kulturhuset,2026-02-10,2026-04-20,69.0
+L0040,Den sista resan,Deckare,Bok,Stadsbiblioteket,2025-04-13,2025-04-26,13.0
+L0041,Barnens stora bok,Roman,Bok,Österfilialen,2025-09-08,2025-09-26,18.0
+L0042,Stjärnornas väg,Deckare,Ljudbok,Kulturhuset,2026-06-26,2026-07-07,11.0
+L0043,Livet mellan raderna,Deckare,Bok,Söderfilialen,2025-09-28,2025-10-17,19.0
+L0044,Skuggor i natten,Barnböcker,Bok,Stadsbiblioteket,2026-10-12,2026-11-11,30.0
+L0045,Stjärnornas väg,Historia,Ljudbok,Stadsbiblioteket,2025-04-05,2025-04-24,19.0
+L0046,Röster från förr,Biografi,Bok,Stadsbiblioteket,2026-03-29,2026-04-22,24.0
+L0047,Skuggor i natten,Biografi,Ljudbok,Söderfilialen,2025-06-02,2025-06-25,23.0
+L0048,Den hemliga trädgården,Deckare,Bok,Stadsbiblioteket,2026-01-02,2026-01-25,23.0
+L0049,Den hemliga trädgården,Barnböcker,Tidskrift,Stadsbiblioteket,2026-09-28,2026-10-25,27.0
+L0050,Barnens stora bok,Deckare,Tidskrift,Österfilialen,2025-01-26,2025-02-26,31.0
+L0051,Mysteriet vid sjön,Fantasy,Ljudbok,Stadsbiblioteket,2025-09-12,2025-10-12,30.0
+L0052,Den hemliga trädgården,Fantasy,Ljudbok,Stadsbiblioteket,2025-12-25,2026-01-26,32.0
+L0053,En annan värld,Fantasy,Bok,Västerfilialen,2025-12-03,2025-12-19,16.0
+L0054,Historien om oss,Poesi,Bok,Barnbiblioteket,2025-12-06,2026-01-02,27.0
+L0055,Den hemliga trädgården,Deckare,Bok,Västerfilialen,2025-02-09,2025-02-26,17.0
+L0056,En annan värld,Deckare,Bok,Kulturhuset,2026-08-14,2026-09-12,29.0
+L0057,Röster från förr,Roman,Bok,Västerfilialen,2025-07-21,2025-08-08,18.0
+L0058,En annan värld,Roman,E-bok,,2025-11-04,2025-11-30,26.0
+L0059,Den hemliga trädgården,Deckare,E-bok,Kulturhuset,2025-05-11,2025-05-31,20.0
+L0060,Bortom horisonten,Barnböcker,Bok,Stadsbiblioteket,2026-07-16,2026-08-01,16.0
+L0061,Stjärnornas väg,Roman,Bok,Stadsbiblioteket,2025-11-26,2025-12-02,6.0
+L0062,Livet mellan raderna,Fantasy,E-bok,Söderfilialen,2025-03-28,2025-04-20,23.0
+L0063,Den sista resan,Fantasy,Bok,Stadsbiblioteket,2025-11-14,2025-12-05,21.0
+L0064,Mysteriet vid sjön,Roman,E-bok,Stadsbiblioteket,2026-04-12,2026-05-10,28.0
+L0065,Den hemliga trädgården,Fantasy,E-bok,Stadsbiblioteket,2026-02-14,2026-03-07,21.0
+L0066,Den sista resan,Deckare,Tidskrift,Söderfilialen,2025-08-13,2025-09-12,30.0
+L0067,Mysteriet vid sjön,Deckare,Bok,Söderfilialen,2026-04-13,2026-04-28,15.0
+L0068,Mysteriet vid sjön,Barnböcker,Ljudbok,Kulturhuset,2026-09-20,2026-10-08,18.0
+L0069,En annan värld,Barnböcker,Bok,Stadsbiblioteket,2025-06-12,2025-07-03,21.0
+L0070,Historien om oss,Historia,Bok,Stadsbiblioteket,2026-05-12,2026-06-11,30.0
+L0071,Den sista resan,Fantasy,Bok,Stadsbiblioteket,2025-12-10,2026-01-01,22.0
+L0072,Den hemliga trädgården,Roman,Bok,Kulturhuset,2026-03-01,2026-04-01,31.0
+L0073,Skuggor i natten,Science fiction,E-bok,Västerfilialen,2026-02-03,2026-03-03,28.0
+L0074,En annan värld,Fantasy,Bok,Österfilialen,2025-12-27,2026-01-07,11.0
+L0075,Barnens stora bok,Barnböcker,Ljudbok,Söderfilialen,2026-07-14,2026-08-02,19.0
+L0076,En annan värld,Barnböcker,Ljudbok,Barnbiblioteket,2026-02-19,2026-03-19,28.0
+L0077,Stjärnornas väg,Science fiction,E-bok,Västerfilialen,2025-01-28,2025-02-24,27.0
+L0078,Den hemliga trädgården,Fantasy,Bok,Kulturhuset,2025-02-21,2025-03-17,24.0
+L0079,Vinter i staden,Barnböcker,Ljudbok,Stadsbiblioteket,2025-10-12,2025-11-03,22.0
+L0080,Livet mellan raderna,Historia,Ljudbok,Västerfilialen,2025-08-18,2025-09-08,21.0
+L0081,Mysteriet vid sjön,Barnböcker,E-bok,Stadsbiblioteket,2025-07-24,2025-08-10,17.0
+L0082,Den sista resan,Barnböcker,Bok,Söderfilialen,2025-09-20,2025-10-11,21.0
+L0083,Den hemliga trädgården,Poesi,Bok,Stadsbiblioteket,2025-06-17,2025-07-04,17.0
+L0084,Historien om oss,Deckare,Ljudbok,Söderfilialen,2025-07-23,2025-08-22,30.0
+L0085,Den sista resan,Barnböcker,Ljudbok,Söderfilialen,2026-09-07,2026-10-06,29.0
+L0086,Den hemliga trädgården,Historia,Bok,Kulturhuset,2026-06-03,2026-06-26,23.0
+L0087,Historien om oss,Historia,Ljudbok,Västerfilialen,2026-01-06,2026-01-16,10.0
+L0088,Röster från förr,Barnböcker,Bok,Söderfilialen,2026-09-23,2026-10-18,25.0
+L0089,Mysteriet vid sjön,Fantasy,Ljudbok,Österfilialen,2026-08-30,2026-10-02,33.0
+L0090,Stjärnornas väg,Historia,Bok,Stadsbiblioteket,2026-08-07,2026-09-04,28.0
+L0091,Skuggor i natten,Deckare,Ljudbok,Kulturhuset,2026-05-15,2026-06-12,
+L0092,Livet mellan raderna,Poesi,Bok,Västerfilialen,2026-06-14,2026-06-27,13.0
+L0093,Historien om oss,Historia,Bok,Österfilialen,2026-05-03,2026-05-28,25.0
+L0094,En annan värld,Roman,E-bok,Kulturhuset,2026-08-19,2026-09-11,23.0
+L0095,Röster från förr,Roman,Bok,Kulturhuset,2025-12-05,2025-12-27,22.0
+L0096,Historien om oss,Poesi,Ljudbok,Stadsbiblioteket,2026-07-03,2026-08-04,32.0
+L0097,Stjärnornas väg,Poesi,Bok,Stadsbiblioteket,2026-08-27,2026-09-20,24.0
+L0098,En annan värld,Deckare,Bok,Stadsbiblioteket,2025-11-06,2025-11-29,23.0
+L0099,Mysteriet vid sjön,Historia,Bok,Österfilialen,2025-10-27,2025-11-02,6.0
+L0100,Mysteriet vid sjön,,Bok,Stadsbiblioteket,2026-05-06,2026-05-27,21.0
+L0101,Bortom horisonten,Barnböcker,Bok,Stadsbiblioteket,2025-04-27,2025-05-16,19.0
+L0102,Bortom horisonten,Deckare,Bok,Söderfilialen,2025-11-08,2025-11-27,19.0
+L0103,Historien om oss,Fantasy,Bok,Kulturhuset,2026-09-26,2026-10-04,8.0
+L0104,Livet mellan raderna,Historia,E-bok,Västerfilialen,2026-08-06,2026-08-31,25.0
+L0105,Röster från förr,Deckare,E-bok,Stadsbiblioteket,2026-10-03,2026-11-23,51.0
+L0106,Mysteriet vid sjön,Roman,Bok,Kulturhuset,2026-09-01,2026-09-24,23.0
+L0107,Den hemliga trädgården,Historia,Tidskrift,Österfilialen,2025-03-14,2025-03-27,13.0
+L0108,Den sista resan,,E-bok,Barnbiblioteket,2025-04-28,2025-05-11,13.0
+L0109,Röster från förr,Deckare,Bok,Västerfilialen,2025-03-03,2025-03-18,15.0
+L0110,Den sista resan,Historia,Tidskrift,Söderfilialen,2025-11-08,2025-11-26,18.0
+L0111,Bortom horisonten,Deckare,Bok,Kulturhuset,2026-09-05,2026-09-25,20.0
+L0112,Skuggor i natten,Poesi,Tidskrift,Västerfilialen,2026-08-25,2026-09-18,24.0
+L0113,Mysteriet vid sjön,Roman,E-bok,Barnbiblioteket,2025-06-29,2025-07-23,24.0
+L0114,Stjärnornas väg,Roman,Bok,Kulturhuset,2025-04-04,2025-05-03,29.0
+L0115,Vinter i staden,Roman,Bok,Västerfilialen,2025-12-04,2026-01-01,28.0
+L0116,Skuggor i natten,Fantasy,Tidskrift,Kulturhuset,2025-09-16,2025-10-13,27.0
+L0117,Skuggor i natten,Roman,Bok,Söderfilialen,2026-07-10,2026-07-25,15.0
+L0118,Mysteriet vid sjön,Fantasy,Bok,Kulturhuset,2025-07-28,2025-08-12,15.0
+L0119,Den sista resan,Deckare,E-bok,Österfilialen,2025-05-05,2025-06-21,47.0
+L0120,Stjärnornas väg,Poesi,Ljudbok,Kulturhuset,2025-08-19,2025-09-03,15.0
+L0121,Mysteriet vid sjön,Poesi,Bok,Västerfilialen,2026-05-26,2026-06-09,14.0
+L0122,Stjärnornas väg,Deckare,Bok,Söderfilialen,2026-07-19,2026-08-13,25.0
+L0123,Historien om oss,Fantasy,Ljudbok,Kulturhuset,2025-03-13,2025-04-10,28.0
+L0124,Mysteriet vid sjön,Barnböcker,E-bok,Västerfilialen,2025-11-02,2025-11-19,17.0
+L0125,Röster från förr,Roman,Bok,Västerfilialen,2026-07-06,2026-07-15,9.0
+L0126,Mysteriet vid sjön,Biografi,Bok,Österfilialen,2025-09-02,2025-11-11,70.0
+L0127,Bortom horisonten,Roman,E-bok,Österfilialen,2026-01-26,2026-03-27,60.0
+L0128,Mysteriet vid sjön,Science fiction,Ljudbok,Kulturhuset,2025-12-06,2025-12-26,20.0
+L0129,Vinter i staden,Barnböcker,Bok,Västerfilialen,2025-01-16,2025-02-10,25.0
+L0130,En annan värld,Historia,E-bok,Österfilialen,,2026-10-28,27.0
+L0131,Livet mellan raderna,Poesi,E-bok,Österfilialen,2026-01-25,2026-02-06,12.0
+L0132,Den sista resan,Historia,Bok,Stadsbiblioteket,2026-10-09,2026-10-30,21.0
+L0133,Skuggor i natten,Barnböcker,Bok,Stadsbiblioteket,2026-10-11,2026-10-31,20.0
+L0134,Barnens stora bok,Roman,Bok,Stadsbiblioteket,2025-10-28,2025-11-19,22.0
+L0135,Stjärnornas väg,Deckare,Bok,Österfilialen,2025-07-04,2025-07-21,17.0
+L0136,Mysteriet vid sjön,Roman,Bok,Stadsbiblioteket,2025-08-26,2025-10-22,57.0
+L0137,Den hemliga trädgården,Historia,Bok,Kulturhuset,2025-10-22,2025-11-06,15.0
+L0138,Den sista resan,Roman,Bok,Barnbiblioteket,2025-09-14,2025-10-12,28.0
+L0139,Den hemliga trädgården,Roman,Bok,Kulturhuset,2025-08-31,2025-09-20,20.0
+L0140,Bortom horisonten,Deckare,Ljudbok,Österfilialen,2025-10-09,2025-10-28,19.0
+L0141,Livet mellan raderna,Barnböcker,Ljudbok,Österfilialen,2026-05-24,2026-06-15,22.0
+L0142,Stjärnornas väg,Fantasy,Ljudbok,Västerfilialen,2026-09-28,2026-10-31,33.0
+L0143,Stjärnornas väg,Deckare,E-bok,Stadsbiblioteket,2026-10-06,2026-10-27,21.0
+L0144,En annan värld,Science fiction,Bok,Kulturhuset,2025-04-03,2025-04-22,19.0
+L0145,Historien om oss,Biografi,Ljudbok,Österfilialen,2026-01-10,2026-01-30,20.0
+L0146,Livet mellan raderna,Barnböcker,Bok,Stadsbiblioteket,2025-12-13,2026-01-16,34.0
+L0147,Mysteriet vid sjön,Poesi,Ljudbok,Kulturhuset,2026-02-11,2026-03-04,21.0
+L0148,Vinter i staden,Historia,Ljudbok,Söderfilialen,2026-01-13,2026-02-01,19.0
+L0149,Barnens stora bok,Historia,Bok,Söderfilialen,2025-04-21,2025-05-17,26.0
+L0150,Den sista resan,Historia,Bok,Västerfilialen,2025-03-06,2025-03-24,18.0
+L0151,Den hemliga trädgården,Deckare,Bok,Barnbiblioteket,2025-05-24,2025-06-17,24.0
+L0152,Bortom horisonten,Roman,Tidskrift,Västerfilialen,2026-04-10,2026-05-04,24.0
+L0153,Röster från förr,Science fiction,E-bok,Österfilialen,2025-06-08,2025-06-16,8.0
+L0154,Barnens stora bok,Deckare,Bok,Stadsbiblioteket,2026-01-15,2026-01-24,9.0
+L0155,Mysteriet vid sjön,Biografi,Tidskrift,Kulturhuset,2026-01-12,2026-01-29,17.0
+L0156,Vinter i staden,Historia,E-bok,Söderfilialen,2025-04-04,2025-06-06,63.0
+L0157,Livet mellan raderna,Poesi,Ljudbok,Stadsbiblioteket,2025-09-07,2025-10-02,25.0
+L0158,Stjärnornas väg,Barnböcker,Ljudbok,Söderfilialen,2025-12-03,2025-12-16,13.0
+L0159,Livet mellan raderna,Biografi,Ljudbok,Stadsbiblioteket,2025-05-14,2025-06-06,23.0
+L0160,En annan värld,Fantasy,Bok,Stadsbiblioteket,2026-08-26,2026-09-13,18.0
+L0161,Bortom horisonten,Barnböcker,Bok,Österfilialen,2025-04-27,2025-05-14,17.0
+L0162,Barnens stora bok,Barnböcker,Ljudbok,Västerfilialen,2025-02-14,2025-03-06,20.0
+L0163,Den sista resan,Deckare,Bok,Kulturhuset,2025-02-01,2025-02-18,17.0
+L0164,Bortom horisonten,Fantasy,Bok,Stadsbiblioteket,2025-03-24,2025-04-06,13.0
+L0165,Röster från förr,Barnböcker,Bok,Söderfilialen,2026-07-16,2026-08-03,18.0
+L0166,Livet mellan raderna,Barnböcker,E-bok,Västerfilialen,2025-04-28,2025-05-26,28.0
+L0167,Den hemliga trädgården,Roman,Bok,Kulturhuset,2026-03-17,2026-03-31,14.0
+L0168,Den sista resan,Historia,Bok,Stadsbiblioteket,2025-11-17,2025-12-10,23.0
+L0169,Bortom horisonten,Barnböcker,Bok,Stadsbiblioteket,2025-04-04,2025-04-24,20.0
+L0170,Den hemliga trädgården,Biografi,Ljudbok,Kulturhuset,2026-07-30,2026-08-07,8.0
+L0171,Livet mellan raderna,Poesi,E-bok,Kulturhuset,2025-02-22,2025-03-10,16.0
+L0172,Livet mellan raderna,Roman,E-bok,Stadsbiblioteket,2025-04-21,2025-05-09,18.0
+L0173,Röster från förr,Barnböcker,Tidskrift,Österfilialen,2026-03-16,2026-05-04,49.0
+L0174,Vinter i staden,Deckare,Bok,Västerfilialen,2025-10-01,2025-10-15,14.0
+L0175,Den sista resan,Deckare,Bok,Västerfilialen,2025-01-07,2025-02-07,31.0
+L0176,Röster från förr,Deckare,Bok,Kulturhuset,2026-06-28,2026-07-23,25.0
+L0177,Barnens stora bok,Barnböcker,E-bok,Stadsbiblioteket,2025-11-29,2025-12-23,24.0
+L0178,Historien om oss,Fantasy,E-bok,Söderfilialen,2025-03-25,2025-04-16,22.0
+L0179,Barnens stora bok,Barnböcker,Bok,Kulturhuset,2025-08-09,2025-08-27,18.0
+L0180,Livet mellan raderna,Deckare,Bok,Söderfilialen,2025-11-12,2026-01-06,55.0
+L0181,En annan värld,Barnböcker,Bok,Stadsbiblioteket,2025-05-21,2025-06-03,13.0
+L0182,Röster från förr,Roman,Ljudbok,Österfilialen,2025-08-24,2025-09-14,21.0
+L0183,Barnens stora bok,Roman,Bok,Stadsbiblioteket,2025-02-13,2025-03-03,18.0
+L0184,Bortom horisonten,Fantasy,Bok,Barnbiblioteket,2026-03-04,2026-03-31,27.0
+L0185,En annan värld,Barnböcker,Ljudbok,Stadsbiblioteket,2026-04-17,2026-05-10,23.0
+L0186,Stjärnornas väg,Roman,Bok,Kulturhuset,2025-03-22,2025-04-07,16.0
+L0187,Barnens stora bok,Roman,Bok,Söderfilialen,2025-03-20,2025-04-15,26.0
+L0188,Barnens stora bok,Fantasy,Bok,,2025-06-01,2025-06-18,17.0
+L0189,Bortom horisonten,Deckare,Ljudbok,Söderfilialen,2025-03-19,2025-04-09,21.0
+L0190,Stjärnornas väg,Historia,E-bok,Österfilialen,2026-10-21,2026-10-30,9.0
+L0191,Historien om oss,Deckare,Bok,Kulturhuset,2026-03-27,2026-04-16,20.0
+L0192,Den sista resan,Roman,Bok,Österfilialen,2026-04-18,2026-05-11,23.0
+L0193,Bortom horisonten,Biografi,Bok,Söderfilialen,2026-09-22,2026-12-03,72.0
+L0194,Den sista resan,Fantasy,Bok,Stadsbiblioteket,2025-07-12,2025-07-29,17.0
+L0195,En annan värld,Poesi,Bok,Västerfilialen,2025-12-18,2026-01-18,31.0
+L0196,Vinter i staden,Biografi,Bok,Barnbiblioteket,2026-06-20,2026-07-13,23.0
+L0197,Historien om oss,Deckare,E-bok,Kulturhuset,2026-09-05,2026-09-21,16.0
+L0198,Vinter i staden,Science fiction,Bok,Söderfilialen,,2026-10-08,28.0
+L0199,Den hemliga trädgården,Poesi,Ljudbok,Kulturhuset,2025-11-14,2025-11-21,7.0
+L0200,Röster från förr,Barnböcker,Ljudbok,Västerfilialen,2026-10-21,2026-11-01,11.0
+L0201,Vinter i staden,Deckare,Ljudbok,Söderfilialen,2026-06-24,2026-07-20,26.0
+L0202,Den sista resan,Deckare,Tidskrift,Stadsbiblioteket,2026-05-13,2026-06-03,21.0
+L0203,Stjärnornas väg,Barnböcker,Ljudbok,Österfilialen,2026-06-04,2026-07-01,27.0
+L0204,Stjärnornas väg,Roman,Bok,Österfilialen,2026-09-04,2026-09-26,22.0
+L0205,Mysteriet vid sjön,Deckare,Bok,Västerfilialen,2026-03-25,2026-04-24,30.0
+L0206,Livet mellan raderna,Biografi,Bok,Österfilialen,2025-08-28,2025-09-16,19.0
+L0207,Den hemliga trädgården,Historia,E-bok,Kulturhuset,2026-01-12,2026-02-03,22.0
+L0208,Barnens stora bok,Barnböcker,Ljudbok,Stadsbiblioteket,2025-06-15,2025-06-23,8.0
+L0209,Stjärnornas väg,Science fiction,E-bok,Stadsbiblioteket,2026-05-08,2026-06-05,28.0
+L0210,Livet mellan raderna,Roman,Bok,Österfilialen,2025-10-07,2025-10-16,9.0
+L0211,Den sista resan,,Tidskrift,Kulturhuset,2026-04-07,2026-04-22,15.0
+L0212,Vinter i staden,Fantasy,Bok,Stadsbiblioteket,2026-01-19,2026-02-13,25.0
+L0213,Mysteriet vid sjön,Deckare,Bok,Österfilialen,2025-05-30,2025-06-18,19.0
+L0214,En annan värld,Deckare,Bok,Stadsbiblioteket,2026-09-23,2026-10-10,17.0
+L0215,Bortom horisonten,Roman,Bok,Kulturhuset,2026-09-16,2026-10-06,20.0
+L0216,Barnens stora bok,Deckare,Ljudbok,Söderfilialen,2026-04-14,2026-05-07,23.0
+L0217,Stjärnornas väg,Biografi,Ljudbok,Kulturhuset,2026-06-12,2026-07-09,27.0
+L0218,En annan värld,Roman,Bok,Barnbiblioteket,2025-03-29,2025-04-19,21.0
+L0219,Vinter i staden,Deckare,Ljudbok,Stadsbiblioteket,2026-07-22,2026-08-06,15.0
+L0220,Röster från förr,Fantasy,Ljudbok,Söderfilialen,2025-03-11,2025-04-05,25.0
+L0221,Röster från förr,Deckare,Bok,Kulturhuset,2025-12-07,2025-12-19,
+L0222,Mysteriet vid sjön,Historia,Ljudbok,Stadsbiblioteket,2026-05-06,2026-05-16,10.0
+L0223,En annan värld,Fantasy,Bok,Stadsbiblioteket,2025-02-07,2025-03-15,36.0
+L0224,Skuggor i natten,Fantasy,Ljudbok,Stadsbiblioteket,2026-04-30,2026-05-25,25.0
+L0225,Vinter i staden,Fantasy,Ljudbok,Kulturhuset,2025-12-06,2025-12-20,14.0
+L0226,Den sista resan,Roman,Bok,Barnbiblioteket,2025-07-11,2025-08-05,25.0
+L0227,Barnens stora bok,Deckare,E-bok,Österfilialen,2026-03-11,2026-03-26,15.0
+L0228,Vinter i staden,Fantasy,E-bok,Kulturhuset,2025-10-30,2025-11-18,19.0
+L0229,Skuggor i natten,Deckare,Ljudbok,Kulturhuset,2026-04-03,2026-04-29,26.0
+L0230,Stjärnornas väg,Historia,Bok,Söderfilialen,2025-03-18,2025-04-07,20.0
+L0231,Vinter i staden,Deckare,E-bok,Österfilialen,2025-02-01,2025-02-24,23.0
+L0232,Vinter i staden,Roman,E-bok,Söderfilialen,2026-01-06,2026-01-27,21.0
+L0233,Den sista resan,Roman,Bok,Stadsbiblioteket,2026-01-16,2026-02-01,16.0
+L0234,Historien om oss,Barnböcker,Bok,Kulturhuset,2025-01-27,2025-02-21,25.0
+L0235,Stjärnornas väg,Barnböcker,Bok,Söderfilialen,2025-09-24,2025-10-06,12.0
+L0236,Barnens stora bok,Roman,Ljudbok,Kulturhuset,2025-03-17,2025-03-18,1.0
+L0237,Röster från förr,Historia,Ljudbok,Söderfilialen,2025-11-24,2025-12-13,19.0
+L0238,Stjärnornas väg,Deckare,Bok,Stadsbiblioteket,2026-10-16,2026-11-11,26.0
+L0239,Bortom horisonten,Barnböcker,Bok,Söderfilialen,2025-08-31,2025-09-12,12.0
+L0240,Den hemliga trädgården,Deckare,Bok,Västerfilialen,2025-03-30,2025-04-29,30.0
+L0241,Vinter i staden,Barnböcker,Bok,Barnbiblioteket,2026-02-24,2026-03-12,16.0
+L0242,Stjärnornas väg,Science fiction,Ljudbok,Västerfilialen,2025-05-12,2025-05-27,15.0
+L0243,Röster från förr,Roman,Ljudbok,Österfilialen,2026-03-20,2026-04-04,15.0
+L0244,Historien om oss,Fantasy,Tidskrift,Österfilialen,2025-08-19,2025-09-08,20.0
+L0245,Stjärnornas väg,Historia,E-bok,Stadsbiblioteket,2025-07-21,2025-08-08,18.0
+L0246,Bortom horisonten,Poesi,Bok,Västerfilialen,2026-08-30,2026-09-28,29.0
+L0247,Bortom horisonten,Barnböcker,E-bok,Österfilialen,2025-12-12,2026-01-04,23.0
+L0248,Mysteriet vid sjön,Historia,Ljudbok,Kulturhuset,2025-09-29,2025-10-20,21.0
+L0249,Mysteriet vid sjön,Biografi,E-bok,Kulturhuset,2026-10-05,2026-10-26,21.0
+L0250,Vinter i staden,Historia,Bok,Kulturhuset,2025-03-16,2025-04-18,33.0
+L0251,Vinter i staden,Deckare,Ljudbok,Kulturhuset,2026-09-14,2026-10-11,27.0
+L0252,Livet mellan raderna,Biografi,Bok,Kulturhuset,2026-06-12,2026-07-02,20.0
+L0253,Stjärnornas väg,Deckare,Bok,Kulturhuset,2025-05-25,2025-06-11,17.0
+L0254,En annan värld,Poesi,Ljudbok,Stadsbiblioteket,2025-12-02,2025-12-19,17.0
+L0255,Livet mellan raderna,Roman,Bok,Stadsbiblioteket,2026-04-24,2026-05-22,28.0
+L0256,Barnens stora bok,Roman,Bok,Söderfilialen,2026-08-21,2026-09-08,18.0
+L0257,Den hemliga trädgården,Fantasy,Bok,Stadsbiblioteket,2026-04-27,2026-05-21,24.0
+L0258,Historien om oss,Deckare,Bok,Söderfilialen,2026-01-10,2026-02-04,25.0
+L0259,Stjärnornas väg,Roman,Bok,Söderfilialen,2025-03-17,2025-04-11,25.0
+L0260,Stjärnornas väg,Roman,Ljudbok,Kulturhuset,2025-04-10,2025-04-22,12.0
+L0261,En annan värld,Biografi,Bok,Stadsbiblioteket,2025-07-23,2025-08-23,31.0
+L0262,Vinter i staden,Deckare,Ljudbok,Stadsbiblioteket,2026-04-13,2026-05-06,23.0
+L0263,Mysteriet vid sjön,Roman,E-bok,Österfilialen,2025-06-16,2025-06-30,14.0
+L0264,Den hemliga trädgården,Fantasy,Ljudbok,Kulturhuset,2026-07-31,2026-08-16,16.0
+L0265,Barnens stora bok,Fantasy,Ljudbok,Österfilialen,2026-08-21,2026-09-04,14.0
+L0266,Barnens stora bok,Biografi,Ljudbok,Söderfilialen,2026-08-16,2026-08-30,14.0
+L0267,Livet mellan raderna,Barnböcker,Bok,Österfilialen,2026-09-27,2026-10-18,21.0
+L0268,En annan värld,Roman,Bok,Kulturhuset,2025-01-20,2025-02-19,30.0
+L0269,Vinter i staden,Science fiction,Ljudbok,Västerfilialen,2026-09-19,2026-10-13,24.0
+L0270,Vinter i staden,Roman,Bok,Stadsbiblioteket,2026-05-05,2026-05-27,22.0
+L0271,Livet mellan raderna,Roman,Ljudbok,Västerfilialen,2026-07-14,2026-07-28,14.0
+L0272,Historien om oss,Fantasy,Bok,Barnbiblioteket,2025-09-10,2025-09-22,12.0
+L0273,Historien om oss,Historia,Bok,Söderfilialen,2025-08-01,2025-08-06,5.0
+L0274,Vinter i staden,Biografi,Bok,Österfilialen,2025-05-05,2025-05-19,14.0
+L0275,Mysteriet vid sjön,Fantasy,Bok,Västerfilialen,2025-05-30,2025-06-15,16.0
+L0276,Stjärnornas väg,Deckare,Bok,Barnbiblioteket,2025-08-08,2025-09-04,27.0
+L0277,Skuggor i natten,Historia,E-bok,Stadsbiblioteket,2025-04-22,2025-05-08,16.0
+L0278,Skuggor i natten,Roman,Ljudbok,Stadsbiblioteket,2025-04-13,2025-04-26,13.0
+L0279,Historien om oss,Poesi,Bok,Västerfilialen,2026-07-18,2026-08-13,26.0
+L0280,Livet mellan raderna,Fantasy,Bok,Västerfilialen,2025-11-25,2025-12-10,15.0
+L0281,Skuggor i natten,Barnböcker,Ljudbok,Stadsbiblioteket,2026-07-02,2026-07-29,27.0
+L0282,Historien om oss,Barnböcker,Bok,Västerfilialen,2026-02-11,2026-02-28,17.0
+L0283,En annan värld,Deckare,E-bok,Stadsbiblioteket,2025-02-08,2025-03-06,26.0
+L0284,Livet mellan raderna,Roman,Tidskrift,Österfilialen,2026-06-21,2026-07-11,20.0
+L0285,Historien om oss,Fantasy,Ljudbok,Västerfilialen,2025-04-26,2025-05-16,20.0
+L0286,Den hemliga trädgården,Historia,Bok,Söderfilialen,2026-08-05,2026-08-24,19.0
+L0287,Livet mellan raderna,Roman,Bok,Västerfilialen,2026-03-14,2026-04-05,22.0
+L0288,Historien om oss,Fantasy,Bok,Västerfilialen,2025-01-07,2025-01-31,24.0
+L0289,Historien om oss,Barnböcker,Bok,Västerfilialen,2026-08-20,2026-09-09,20.0
+L0290,Historien om oss,Roman,Bok,Österfilialen,2025-06-13,2025-07-01,18.0
+L0291,Mysteriet vid sjön,Historia,Tidskrift,Kulturhuset,2025-05-01,2025-05-25,24.0
+L0292,Barnens stora bok,Roman,Ljudbok,Barnbiblioteket,2026-09-13,2026-10-21,38.0
+L0293,Vinter i staden,Barnböcker,Ljudbok,Söderfilialen,2025-08-12,2025-09-03,22.0
+L0294,Livet mellan raderna,Science fiction,Bok,Österfilialen,2025-03-21,2025-04-02,12.0
+L0295,Mysteriet vid sjön,Biografi,Bok,Österfilialen,2026-08-10,2026-08-21,11.0
+L0296,Den hemliga trädgården,Science fiction,Bok,Stadsbiblioteket,2025-04-04,2025-04-28,24.0
+L0297,Skuggor i natten,Biografi,E-bok,Västerfilialen,2026-04-13,2026-05-03,20.0
+L0298,Skuggor i natten,Biografi,Bok,Kulturhuset,2025-08-12,2025-09-03,22.0
+L0299,Röster från förr,Poesi,Bok,Kulturhuset,2025-03-12,2025-04-03,22.0
+L0300,Den hemliga trädgården,Poesi,Bok,Österfilialen,2026-10-24,2026-11-17,24.0
+L0301,En annan värld,Deckare,Tidskrift,Österfilialen,2026-01-20,2026-02-19,30.0
+L0302,Historien om oss,Roman,Ljudbok,Stadsbiblioteket,2026-02-07,2026-03-25,46.0
+L0303,Historien om oss,Historia,Bok,Söderfilialen,2026-04-20,2026-05-13,23.0
+L0304,Den hemliga trädgården,Poesi,Ljudbok,Stadsbiblioteket,2025-07-13,2025-07-29,16.0
+L0305,Barnens stora bok,Barnböcker,Ljudbok,Stadsbiblioteket,2026-09-22,2026-11-16,55.0
+L0306,Skuggor i natten,Fantasy,Bok,Kulturhuset,2025-02-19,2025-03-15,24.0
+L0307,Barnens stora bok,Roman,Bok,Österfilialen,2025-05-24,2025-06-13,20.0
+L0308,Den hemliga trädgården,Fantasy,Ljudbok,Barnbiblioteket,2025-11-25,2025-12-09,14.0
+L0309,En annan värld,Fantasy,E-bok,Söderfilialen,2025-11-04,2025-11-24,20.0
+L0310,En annan värld,Deckare,Bok,Västerfilialen,2026-05-23,2026-06-08,16.0
+L0311,Livet mellan raderna,Historia,Bok,Kulturhuset,2025-11-23,2025-12-17,24.0
+L0312,Den hemliga trädgården,Barnböcker,Bok,Kulturhuset,2025-11-04,2025-12-30,56.0
+L0313,Vinter i staden,Roman,Bok,Stadsbiblioteket,2026-07-25,2026-08-13,19.0
+L0314,Bortom horisonten,Biografi,Ljudbok,Stadsbiblioteket,2025-04-05,2025-04-28,23.0
+L0315,Livet mellan raderna,Deckare,Bok,Österfilialen,2026-09-10,2026-09-22,12.0
+L0316,Röster från förr,Fantasy,Ljudbok,Stadsbiblioteket,2025-12-07,2025-12-22,15.0
+L0317,Livet mellan raderna,Barnböcker,Ljudbok,Barnbiblioteket,2025-05-01,2025-05-18,17.0
+L0318,Historien om oss,Fantasy,Bok,Kulturhuset,2026-07-20,2026-07-30,10.0
+L0319,Vinter i staden,Roman,Ljudbok,Kulturhuset,2025-09-25,2025-10-19,24.0
+L0320,Stjärnornas väg,Roman,Bok,Söderfilialen,2025-07-28,2025-08-07,10.0
+L0321,Den hemliga trädgården,Fantasy,Tidskrift,Söderfilialen,2025-01-17,2025-02-03,17.0
+L0322,Historien om oss,Barnböcker,Bok,Västerfilialen,2026-08-07,2026-08-29,22.0
+L0323,Röster från förr,Poesi,E-bok,Söderfilialen,2026-05-16,2026-06-12,27.0
+L0324,Skuggor i natten,Roman,Ljudbok,Söderfilialen,2026-07-14,2026-08-14,31.0
+L0325,Barnens stora bok,Deckare,Ljudbok,Barnbiblioteket,2026-06-21,2026-07-06,15.0
+L0326,Skuggor i natten,Deckare,Bok,Stadsbiblioteket,2025-08-25,2025-09-04,10.0
+L0327,Den hemliga trädgården,Historia,Tidskrift,Barnbiblioteket,2026-09-25,2026-10-15,20.0
+L0328,En annan värld,Deckare,Ljudbok,Söderfilialen,2025-01-13,2025-02-01,19.0
+L0329,En annan värld,Barnböcker,Ljudbok,Stadsbiblioteket,2026-03-17,2026-04-10,24.0
+L0330,Den hemliga trädgården,Barnböcker,Bok,Kulturhuset,2025-09-16,2025-10-09,23.0
+L0331,Barnens stora bok,Biografi,Tidskrift,Stadsbiblioteket,2026-04-16,2026-05-01,15.0
+L0332,Röster från förr,Deckare,Bok,Söderfilialen,2025-02-02,2025-02-25,23.0
+L0333,En annan värld,Deckare,Ljudbok,Västerfilialen,2025-06-25,2025-07-06,11.0
+L0334,Historien om oss,Fantasy,Ljudbok,Västerfilialen,2025-02-13,2025-03-22,37.0
+L0335,Vinter i staden,Science fiction,Ljudbok,Stadsbiblioteket,2025-02-17,2025-02-28,11.0
+L0336,Den hemliga trädgården,Poesi,E-bok,Västerfilialen,2025-01-17,2025-02-04,18.0
+L0337,Den hemliga trädgården,Fantasy,E-bok,Söderfilialen,2025-03-20,2025-04-16,27.0
+L0338,Vinter i staden,Barnböcker,Ljudbok,Stadsbiblioteket,2025-05-24,2025-06-05,12.0
+L0339,Vinter i staden,Deckare,Bok,Stadsbiblioteket,2025-02-24,2025-03-09,13.0
+L0340,En annan värld,Historia,Ljudbok,Kulturhuset,2025-01-31,2025-02-15,15.0
+L0341,Röster från förr,Roman,Ljudbok,Västerfilialen,2026-01-20,2026-02-18,29.0
+L0342,Röster från förr,Deckare,Bok,Västerfilialen,2025-03-17,2025-04-11,25.0
+L0343,Stjärnornas väg,Fantasy,Bok,Stadsbiblioteket,2026-02-03,2026-02-21,
+L0344,Skuggor i natten,Deckare,Bok,Söderfilialen,2025-03-31,2025-04-27,
+L0345,Den hemliga trädgården,Roman,Bok,Söderfilialen,2025-04-02,2025-04-19,17.0
+L0346,En annan värld,Barnböcker,E-bok,Barnbiblioteket,2025-03-28,2025-04-24,27.0
+L0347,Historien om oss,Historia,Bok,Stadsbiblioteket,2025-06-23,2025-07-13,20.0
+L0348,Röster från förr,Fantasy,Ljudbok,Kulturhuset,2026-03-08,2026-04-01,24.0
+L0349,Bortom horisonten,Roman,E-bok,Kulturhuset,2026-10-03,2026-10-24,21.0
+L0350,Barnens stora bok,Barnböcker,Bok,Kulturhuset,2026-01-25,2026-02-15,21.0
+L0351,Vinter i staden,Deckare,Bok,Barnbiblioteket,2026-09-01,2026-09-23,22.0
+L0352,Vinter i staden,Barnböcker,E-bok,Barnbiblioteket,2025-10-26,2025-11-21,26.0
+L0353,Stjärnornas väg,Fantasy,Ljudbok,Kulturhuset,2026-01-21,2026-02-15,25.0
+L0354,Historien om oss,Deckare,Ljudbok,Barnbiblioteket,2026-07-18,2026-08-06,19.0
+L0355,Barnens stora bok,Barnböcker,Ljudbok,Kulturhuset,2025-03-12,2025-03-23,11.0
+L0356,Mysteriet vid sjön,Barnböcker,Ljudbok,Stadsbiblioteket,2025-06-07,2025-06-28,21.0
+L0357,Vinter i staden,Roman,Bok,Barnbiblioteket,2026-08-20,2026-09-06,17.0
+L0358,Barnens stora bok,Biografi,Ljudbok,Stadsbiblioteket,2026-07-04,2026-07-16,12.0
+L0359,Vinter i staden,Deckare,E-bok,Söderfilialen,2025-12-30,2026-01-13,14.0
+L0360,En annan värld,Deckare,Bok,Stadsbiblioteket,2026-03-17,2026-03-30,13.0
+L0361,Stjärnornas väg,Historia,Bok,Kulturhuset,2026-08-18,2026-08-28,10.0
+L0362,Den sista resan,Poesi,Bok,Kulturhuset,2025-12-20,2026-01-12,23.0
+L0363,Vinter i staden,Barnböcker,Ljudbok,Kulturhuset,2025-04-29,2025-05-13,14.0
+L0364,Skuggor i natten,Deckare,Ljudbok,Kulturhuset,2026-05-03,2026-06-03,31.0
+L0365,En annan värld,Deckare,Bok,Stadsbiblioteket,2025-04-28,2025-05-23,25.0
+L0366,Den hemliga trädgården,Biografi,Bok,Kulturhuset,2025-06-28,2025-07-03,5.0
+L0367,Bortom horisonten,Deckare,E-bok,Kulturhuset,2026-10-07,2026-11-06,30.0
+L0368,Den sista resan,Roman,Ljudbok,Stadsbiblioteket,2026-03-16,2026-04-07,22.0
+L0369,Mysteriet vid sjön,Deckare,Ljudbok,Stadsbiblioteket,2026-08-15,2026-09-01,17.0
+L0370,Den sista resan,Poesi,Bok,Kulturhuset,2026-06-25,2026-07-22,27.0
+L0371,Bortom horisonten,Roman,Bok,Stadsbiblioteket,2025-12-23,2026-01-07,15.0
+L0372,Vinter i staden,Historia,Bok,Stadsbiblioteket,2025-03-28,2025-04-06,9.0
+L0373,Röster från förr,Roman,Bok,Stadsbiblioteket,2025-05-25,2025-06-11,17.0
+L0374,Stjärnornas väg,Poesi,Bok,Stadsbiblioteket,2026-10-23,2026-11-15,23.0
+L0375,Den hemliga trädgården,Barnböcker,E-bok,Österfilialen,2025-11-19,2025-12-17,28.0
+L0376,Mysteriet vid sjön,Roman,Bok,Västerfilialen,2026-07-30,2026-08-17,18.0
+L0377,Historien om oss,Deckare,E-bok,Österfilialen,2026-05-16,2026-06-06,21.0
+L0378,En annan värld,Barnböcker,E-bok,Västerfilialen,2025-06-22,2025-07-14,22.0
+L0379,Röster från förr,Biografi,Bok,Söderfilialen,2025-04-26,2025-05-25,29.0
+L0380,Livet mellan raderna,Biografi,Tidskrift,Stadsbiblioteket,2026-03-28,2026-04-17,20.0
+L0381,Den sista resan,Science fiction,Bok,Stadsbiblioteket,2025-11-01,2025-11-23,22.0
+L0382,Bortom horisonten,Deckare,Ljudbok,Västerfilialen,2025-08-31,2025-09-18,18.0
+L0383,En annan värld,Roman,E-bok,Österfilialen,2026-10-10,2026-11-04,25.0
+L0384,Bortom horisonten,Biografi,Bok,Barnbiblioteket,2025-10-15,2025-10-24,9.0
+L0385,Den hemliga trädgården,Poesi,Bok,Österfilialen,2025-10-01,2025-10-23,22.0
+L0386,Livet mellan raderna,Poesi,Ljudbok,Stadsbiblioteket,2025-03-02,2025-03-19,17.0
+L0387,Historien om oss,Barnböcker,Ljudbok,Västerfilialen,2025-05-30,2025-06-16,17.0
+L0388,Den sista resan,Roman,Bok,Västerfilialen,2026-10-05,2026-10-18,13.0
+L0389,Skuggor i natten,Roman,Bok,Barnbiblioteket,2026-02-17,2026-02-26,9.0
+L0390,Den sista resan,Barnböcker,Bok,Västerfilialen,2025-04-06,2025-05-09,33.0
+L0391,En annan värld,Roman,Tidskrift,Österfilialen,2026-07-02,2026-07-16,14.0
+L0392,Skuggor i natten,Deckare,Ljudbok,Österfilialen,2026-08-15,2026-09-05,21.0
+L0393,Skuggor i natten,Deckare,Ljudbok,Kulturhuset,2025-02-17,2025-03-19,30.0
+L0394,Stjärnornas väg,Deckare,Ljudbok,Stadsbiblioteket,,2026-04-14,30.0
+L0395,Historien om oss,Deckare,Bok,Stadsbiblioteket,2025-10-08,2025-11-27,50.0
+L0396,Den sista resan,Roman,Bok,Stadsbiblioteket,2025-08-28,2025-09-09,12.0
+L0397,Den hemliga trädgården,Biografi,Bok,Kulturhuset,2025-05-16,2025-06-12,27.0
+L0398,Den sista resan,Roman,Bok,Stadsbiblioteket,2025-05-16,2025-06-06,21.0
+L0399,Barnens stora bok,Roman,Bok,Kulturhuset,2025-11-17,2025-12-13,26.0
+L0400,Vinter i staden,Deckare,E-bok,Söderfilialen,2025-05-27,2025-06-03,7.0
+L0401,Den sista resan,Historia,Bok,Kulturhuset,2025-08-07,2025-08-22,15.0
+L0402,Vinter i staden,Barnböcker,E-bok,Kulturhuset,2025-05-24,2025-06-01,8.0
+L0403,Röster från förr,Fantasy,E-bok,Stadsbiblioteket,2025-05-24,2025-06-04,11.0
+L0404,En annan värld,Barnböcker,E-bok,Kulturhuset,2025-01-28,2025-02-11,14.0
+L0405,Den sista resan,Barnböcker,Bok,Stadsbiblioteket,2025-07-13,2025-08-16,34.0
+L0406,Vinter i staden,Roman,E-bok,Söderfilialen,2025-09-04,2025-09-14,10.0
+L0407,Den sista resan,Deckare,Ljudbok,Söderfilialen,2025-11-21,2025-12-04,13.0
+L0408,Den hemliga trädgården,Biografi,Bok,Stadsbiblioteket,2025-01-18,2025-02-15,28.0
+L0409,En annan värld,Fantasy,Ljudbok,Västerfilialen,2026-06-03,2026-06-17,14.0
+L0410,Stjärnornas väg,Deckare,,Stadsbiblioteket,2026-09-23,2026-10-17,24.0
+L0411,Den hemliga trädgården,Fantasy,E-bok,Västerfilialen,2026-07-04,2026-07-19,15.0
+L0412,Bortom horisonten,Deckare,Bok,Kulturhuset,2025-09-02,2025-09-14,12.0
+L0413,Stjärnornas väg,Fantasy,Ljudbok,Västerfilialen,2025-02-26,2025-03-27,29.0
+L0414,Stjärnornas väg,Poesi,,Österfilialen,2026-05-24,2026-06-21,28.0
+L0415,Den hemliga trädgården,Deckare,Ljudbok,Stadsbiblioteket,2026-01-16,2026-03-27,70.0
+L0416,Mysteriet vid sjön,Roman,Bok,Barnbiblioteket,2025-10-06,2025-10-19,13.0
+L0417,Bortom horisonten,Roman,Bok,Österfilialen,2026-04-12,2026-05-05,23.0
+L0418,Livet mellan raderna,Fantasy,Bok,Stadsbiblioteket,2025-04-29,2025-05-23,24.0
+L0419,Röster från förr,Roman,Bok,Stadsbiblioteket,2025-02-17,2025-03-22,33.0
+L0420,Den sista resan,Fantasy,Bok,Barnbiblioteket,2026-03-06,2026-03-21,15.0
+L0421,Den hemliga trädgården,Roman,Bok,Österfilialen,2026-08-09,2026-09-04,26.0
+L0422,Den sista resan,Science fiction,Ljudbok,Västerfilialen,2025-03-12,2025-04-13,32.0
+L0423,Vinter i staden,Roman,Bok,Kulturhuset,2026-07-21,2026-08-13,23.0
+L0424,En annan värld,Poesi,Tidskrift,Österfilialen,2026-08-29,2026-09-07,9.0
+L0425,Skuggor i natten,Deckare,Tidskrift,Stadsbiblioteket,2025-09-09,2025-09-20,11.0
+L0426,Den sista resan,Deckare,E-bok,Österfilialen,2025-12-10,2025-12-28,18.0
+L0427,Den sista resan,Roman,Bok,Söderfilialen,2025-07-30,2025-09-11,43.0
+L0428,Vinter i staden,Science fiction,Ljudbok,Söderfilialen,2025-02-14,2025-03-15,29.0
+L0429,Bortom horisonten,Poesi,Bok,Stadsbiblioteket,2026-04-15,2026-05-14,29.0
+L0430,Vinter i staden,Roman,Tidskrift,Stadsbiblioteket,2025-03-05,2025-04-04,30.0
+L0431,Bortom horisonten,Barnböcker,Ljudbok,Kulturhuset,2026-02-07,2026-02-27,20.0
+L0432,En annan värld,Deckare,Bok,Kulturhuset,2025-04-22,2025-05-15,23.0
+L0433,Barnens stora bok,Poesi,Bok,Kulturhuset,2026-01-02,2026-01-22,20.0
+L0434,Vinter i staden,Barnböcker,Ljudbok,Stadsbiblioteket,2025-11-08,2025-12-02,24.0
+L0435,Stjärnornas väg,Deckare,Bok,Kulturhuset,2025-06-01,2025-06-11,10.0
+L0436,Den sista resan,Poesi,Ljudbok,Söderfilialen,2025-02-01,2025-02-21,20.0
+L0437,Livet mellan raderna,Deckare,Ljudbok,Stadsbiblioteket,2026-04-19,2026-05-21,32.0
+L0438,Historien om oss,Roman,E-bok,Västerfilialen,2026-02-15,2026-03-12,25.0
+L0439,Vinter i staden,Deckare,Bok,Österfilialen,2025-03-18,2025-04-04,17.0
+L0440,Röster från förr,Deckare,Bok,Stadsbiblioteket,2025-05-06,2025-05-28,22.0
+L0441,Mysteriet vid sjön,Roman,Bok,Kulturhuset,2026-02-09,2026-02-20,11.0
+L0442,Den hemliga trädgården,Deckare,E-bok,Stadsbiblioteket,2025-06-02,2025-07-05,33.0
+L0443,Livet mellan raderna,Roman,Bok,Kulturhuset,2026-07-18,2026-07-30,12.0
+L0444,Röster från förr,Poesi,Bok,Stadsbiblioteket,2026-10-08,2026-11-02,25.0
+L0445,Skuggor i natten,Roman,Ljudbok,Kulturhuset,2026-01-03,2026-01-18,15.0
+L0446,Mysteriet vid sjön,Biografi,Bok,Österfilialen,2025-11-23,2025-12-11,18.0
+L0447,En annan värld,Roman,E-bok,Stadsbiblioteket,2026-06-27,2026-07-20,23.0
+L0448,Den hemliga trädgården,Barnböcker,Tidskrift,Söderfilialen,2025-02-27,2025-03-24,25.0
+L0449,Vinter i staden,Poesi,Tidskrift,Stadsbiblioteket,2025-12-30,2026-01-20,21.0
+L0450,Bortom horisonten,Deckare,Ljudbok,Barnbiblioteket,2026-08-29,2026-09-25,27.0
+L0451,Livet mellan raderna,Barnböcker,Ljudbok,Barnbiblioteket,2025-07-12,2025-08-13,32.0
+L0452,Livet mellan raderna,Deckare,Bok,Stadsbiblioteket,,2026-09-28,19.0
+L0453,Röster från förr,Fantasy,Bok,Österfilialen,2025-05-14,2025-06-05,22.0
+L0454,Vinter i staden,Barnböcker,Ljudbok,Österfilialen,2025-05-26,2025-06-14,19.0
+L0455,Barnens stora bok,Biografi,Bok,Kulturhuset,2026-02-10,2026-03-14,32.0
+L0456,Bortom horisonten,Historia,Bok,Barnbiblioteket,2026-05-14,2026-06-02,19.0
+L0457,Röster från förr,Fantasy,E-bok,Stadsbiblioteket,2026-01-01,2026-01-18,17.0
+L0458,Bortom horisonten,Poesi,Tidskrift,Kulturhuset,2025-01-02,2025-02-02,31.0
+L0459,Mysteriet vid sjön,Deckare,Bok,Österfilialen,2025-02-03,2025-02-16,13.0
+L0460,Barnens stora bok,Fantasy,Bok,Kulturhuset,2025-05-25,2025-06-08,14.0
+L0461,Röster från förr,Barnböcker,Ljudbok,Västerfilialen,2025-04-01,2025-04-21,20.0
+L0462,Röster från förr,Roman,Ljudbok,Västerfilialen,2025-03-11,2025-04-30,50.0
+L0463,Mysteriet vid sjön,Poesi,Ljudbok,Söderfilialen,2026-03-06,2026-03-20,14.0
+L0464,Skuggor i natten,Historia,Ljudbok,Stadsbiblioteket,2026-08-15,2026-09-11,27.0
+L0465,Den sista resan,Deckare,Bok,Stadsbiblioteket,2025-10-29,2025-11-11,13.0
+L0466,Mysteriet vid sjön,Poesi,Tidskrift,Kulturhuset,2026-07-15,2026-08-17,33.0
+L0467,Livet mellan raderna,Roman,E-bok,Söderfilialen,2025-02-01,2025-02-19,18.0
+L0468,Historien om oss,Historia,Ljudbok,Västerfilialen,2026-02-24,2026-03-17,21.0
+L0469,Den hemliga trädgården,Fantasy,Bok,Söderfilialen,2025-11-01,2025-11-24,23.0
+L0470,Skuggor i natten,Fantasy,E-bok,Söderfilialen,2025-03-31,2025-04-17,17.0
+L0471,Mysteriet vid sjön,Deckare,Bok,Stadsbiblioteket,2025-07-31,2025-08-24,24.0
+L0472,Vinter i staden,Deckare,Bok,Stadsbiblioteket,2025-09-29,2025-10-15,16.0
+L0473,Röster från förr,Roman,Bok,Kulturhuset,2025-07-11,2025-08-01,21.0
+L0474,Bortom horisonten,Deckare,Bok,Söderfilialen,2025-04-10,2025-05-06,26.0
+L0475,Mysteriet vid sjön,Biografi,Ljudbok,Österfilialen,2025-08-21,2025-09-03,13.0
+L0476,Röster från förr,Science fiction,Bok,Stadsbiblioteket,2026-08-10,2026-09-04,25.0
+L0477,Mysteriet vid sjön,Roman,Ljudbok,Österfilialen,2025-02-05,2025-02-21,16.0
+L0478,Skuggor i natten,Poesi,Bok,Stadsbiblioteket,2025-06-27,2025-07-09,12.0
+L0479,Vinter i staden,Deckare,Ljudbok,Stadsbiblioteket,2026-03-10,2026-04-01,22.0
+L0480,En annan värld,Deckare,E-bok,Söderfilialen,2025-03-10,2025-03-27,17.0
+L0481,Stjärnornas väg,Science fiction,Bok,Västerfilialen,2026-04-15,2026-04-25,10.0
+L0482,Den sista resan,Biografi,E-bok,Barnbiblioteket,2025-06-01,2025-06-15,14.0
+L0483,Barnens stora bok,Barnböcker,Ljudbok,Österfilialen,2026-07-31,2026-08-31,31.0
+L0484,Bortom horisonten,Biografi,Bok,Stadsbiblioteket,2026-05-13,2026-05-24,11.0
+L0485,Historien om oss,Historia,Bok,Kulturhuset,2026-09-16,2026-11-13,58.0
+L0486,Mysteriet vid sjön,Deckare,Ljudbok,Kulturhuset,2026-01-17,2026-01-30,13.0
+L0487,Röster från förr,Poesi,Bok,Kulturhuset,2025-04-11,2025-05-01,20.0
+L0488,Den hemliga trädgården,Biografi,Bok,Kulturhuset,2026-03-03,2026-03-11,8.0
+L0489,En annan värld,Barnböcker,,Österfilialen,2026-05-12,2026-05-28,16.0
+L0490,Livet mellan raderna,Deckare,Ljudbok,Österfilialen,2026-02-18,2026-03-31,41.0
+L0491,En annan värld,Fantasy,Bok,Barnbiblioteket,2025-03-01,2025-03-20,19.0
+L0492,Bortom horisonten,Historia,Bok,Stadsbiblioteket,2026-02-11,2026-02-26,15.0
+L0493,Röster från förr,Deckare,Ljudbok,Söderfilialen,2026-04-02,2026-04-20,18.0
+L0494,Livet mellan raderna,Fantasy,Bok,Stadsbiblioteket,2025-04-03,2025-04-27,24.0
+L0495,Barnens stora bok,Historia,Ljudbok,Stadsbiblioteket,2025-08-15,2025-09-03,19.0
+L0496,Livet mellan raderna,Roman,Bok,Stadsbiblioteket,2025-01-10,2025-01-31,21.0
+L0497,Vinter i staden,Biografi,Tidskrift,Västerfilialen,2025-09-16,2025-10-05,19.0
+L0498,Den hemliga trädgården,Fantasy,Bok,Västerfilialen,2026-04-16,2026-05-01,15.0
+L0499,Bortom horisonten,Deckare,Bok,Västerfilialen,2026-08-22,2026-09-15,24.0
+L0500,Barnens stora bok,Fantasy,Bok,Stadsbiblioteket,2025-10-17,2025-11-01,15.0
+L0501,Livet mellan raderna,Science fiction,Bok,Västerfilialen,2025-11-29,2025-12-24,25.0
+L0502,Barnens stora bok,Barnböcker,Ljudbok,Söderfilialen,2025-02-28,2025-03-17,17.0
+L0503,Skuggor i natten,Barnböcker,E-bok,Barnbiblioteket,2025-05-24,2025-06-13,20.0
+L0504,Livet mellan raderna,Barnböcker,E-bok,Stadsbiblioteket,2026-08-21,2026-09-18,28.0
+L0505,Barnens stora bok,Historia,Bok,Barnbiblioteket,2026-07-02,2026-07-19,17.0
+L0506,En annan värld,Deckare,Bok,Stadsbiblioteket,2026-07-26,2026-08-20,25.0
+L0507,Den hemliga trädgården,Poesi,Ljudbok,Västerfilialen,2025-07-07,2025-07-28,21.0
+L0508,Skuggor i natten,Roman,E-bok,Kulturhuset,2025-12-06,2025-12-31,25.0
+L0509,Den hemliga trädgården,Biografi,Tidskrift,Stadsbiblioteket,2026-10-12,2026-11-08,27.0
+L0510,Livet mellan raderna,Fantasy,Bok,Österfilialen,2026-06-27,2026-07-12,15.0
+L0511,Den sista resan,Roman,E-bok,Österfilialen,2025-12-17,2026-01-01,15.0
+L0512,Historien om oss,Fantasy,,Kulturhuset,2026-05-15,2026-07-05,51.0
+L0513,Bortom horisonten,Barnböcker,Bok,Västerfilialen,2025-08-03,2025-08-12,9.0
+L0514,Skuggor i natten,Historia,Bok,Barnbiblioteket,2026-03-21,2026-04-11,21.0
+L0515,Barnens stora bok,Deckare,Bok,Stadsbiblioteket,2026-07-01,2026-07-16,15.0
+L0516,Stjärnornas väg,Historia,Bok,Västerfilialen,2025-01-05,2025-02-06,32.0
+L0517,Röster från förr,Roman,E-bok,Stadsbiblioteket,2025-04-16,2025-05-09,23.0
+L0518,Vinter i staden,Biografi,Bok,Österfilialen,2026-06-17,2026-07-02,15.0
+L0519,Röster från förr,Roman,Bok,Barnbiblioteket,2026-05-17,2026-06-13,27.0
+L0520,Röster från förr,Deckare,Bok,Söderfilialen,2025-05-15,2025-06-01,17.0
+L0521,Barnens stora bok,Roman,E-bok,Västerfilialen,2025-02-08,2025-03-12,32.0
+L0522,Historien om oss,Deckare,Bok,Kulturhuset,2025-01-21,2025-02-04,14.0
+L0523,En annan värld,Barnböcker,Bok,Västerfilialen,2026-05-01,2026-05-29,28.0
+L0524,En annan värld,Historia,Ljudbok,Kulturhuset,2025-10-04,2025-10-25,21.0
+L0525,En annan värld,Deckare,Bok,Stadsbiblioteket,2026-09-25,2026-10-17,22.0
+L0526,Livet mellan raderna,Roman,Bok,Stadsbiblioteket,2025-07-26,2025-08-20,25.0
+L0527,Stjärnornas väg,Fantasy,Bok,Västerfilialen,2026-05-08,2026-06-09,32.0
+L0528,Barnens stora bok,Barnböcker,Bok,Västerfilialen,2025-04-03,2025-04-16,13.0
+L0529,Historien om oss,Roman,Tidskrift,Stadsbiblioteket,2025-08-25,2025-09-27,33.0
+L0530,Skuggor i natten,Barnböcker,Bok,Västerfilialen,2026-01-04,2026-01-28,24.0
+L0531,Röster från förr,Barnböcker,E-bok,Stadsbiblioteket,2025-01-10,2025-01-26,16.0
+L0532,Mysteriet vid sjön,Roman,Bok,Stadsbiblioteket,2025-04-06,2025-05-02,26.0
+L0533,Stjärnornas väg,Barnböcker,Ljudbok,Söderfilialen,2025-10-06,2025-10-14,8.0
+L0534,Mysteriet vid sjön,Poesi,Ljudbok,Stadsbiblioteket,2025-03-02,2025-03-29,27.0
+L0535,Röster från förr,Historia,Bok,Kulturhuset,2026-08-06,2026-08-25,19.0
+L0536,Den sista resan,Roman,Bok,Österfilialen,2025-05-14,2025-06-05,22.0
+L0537,Livet mellan raderna,Historia,Bok,Österfilialen,2025-09-25,2025-10-04,9.0
+L0538,Röster från förr,Roman,Ljudbok,Söderfilialen,2025-12-13,2026-01-01,19.0
+L0539,Bortom horisonten,Roman,E-bok,Västerfilialen,2025-09-12,2025-10-10,28.0
+L0540,Mysteriet vid sjön,Deckare,Tidskrift,Söderfilialen,2025-02-25,2025-03-28,31.0
+L0541,Barnens stora bok,Deckare,Bok,Stadsbiblioteket,2025-06-19,2025-07-12,23.0
+L0542,Mysteriet vid sjön,Roman,Bok,Kulturhuset,2026-01-23,2026-02-12,20.0
+L0543,Den hemliga trädgården,Barnböcker,Bok,Stadsbiblioteket,2025-04-01,2025-04-11,10.0
+L0544,Bortom horisonten,Biografi,Bok,Stadsbiblioteket,2025-02-06,2025-02-27,21.0
+L0545,Skuggor i natten,Fantasy,Bok,Stadsbiblioteket,2026-10-15,2026-10-27,12.0
+L0546,Röster från förr,Barnböcker,Bok,Västerfilialen,2025-08-17,2025-08-22,5.0
+L0547,Historien om oss,Barnböcker,Bok,Västerfilialen,2026-01-08,2026-01-30,22.0
+L0548,Stjärnornas väg,Roman,Ljudbok,Stadsbiblioteket,2026-07-15,2026-08-11,27.0
+L0549,Livet mellan raderna,Deckare,E-bok,Stadsbiblioteket,2026-02-24,2026-03-23,27.0
+L0550,Bortom horisonten,Deckare,Bok,Barnbiblioteket,2025-12-13,2025-12-31,18.0
+L0551,En annan värld,Barnböcker,Bok,Västerfilialen,2025-05-07,2025-05-31,24.0
+L0552,Stjärnornas väg,Biografi,Bok,Söderfilialen,2025-02-19,2025-03-10,19.0
+L0553,Den hemliga trädgården,Deckare,Ljudbok,Stadsbiblioteket,2026-08-16,2026-08-31,15.0
+L0554,Vinter i staden,Poesi,Ljudbok,Västerfilialen,2026-03-05,2026-03-18,13.0
+L0555,Röster från förr,Roman,Bok,Kulturhuset,2025-10-29,2025-11-15,17.0
+L0556,Livet mellan raderna,Science fiction,Ljudbok,Barnbiblioteket,2026-07-15,2026-07-24,9.0
+L0557,Stjärnornas väg,Historia,Bok,Kulturhuset,2025-08-03,2025-08-14,11.0
+L0558,En annan värld,Biografi,E-bok,Västerfilialen,2026-05-31,2026-06-03,3.0
+L0559,Den hemliga trädgården,Biografi,Tidskrift,Västerfilialen,2026-05-07,2026-05-21,14.0
+L0560,Livet mellan raderna,Roman,Bok,Stadsbiblioteket,2025-01-14,2025-01-21,7.0
+L0561,Historien om oss,Barnböcker,Bok,Kulturhuset,2025-10-01,2025-10-21,20.0
+L0562,Barnens stora bok,Barnböcker,Bok,Österfilialen,2025-07-28,2025-08-31,34.0
+L0563,Historien om oss,Science fiction,Ljudbok,Söderfilialen,2026-07-30,2026-08-20,21.0
+L0564,Vinter i staden,Science fiction,Bok,Barnbiblioteket,2025-02-18,2025-03-23,33.0
+L0565,Livet mellan raderna,Deckare,Ljudbok,Stadsbiblioteket,2026-07-20,2026-08-19,30.0
+L0566,Bortom horisonten,Barnböcker,E-bok,Västerfilialen,2026-10-11,2026-10-21,10.0
+L0567,Stjärnornas väg,Barnböcker,Tidskrift,Kulturhuset,2025-07-21,2025-08-15,25.0
+L0568,Stjärnornas väg,Deckare,Bok,Stadsbiblioteket,2026-06-11,2026-07-11,30.0
+L0569,Bortom horisonten,Barnböcker,Bok,Kulturhuset,2026-08-22,2026-09-13,22.0
+L0570,Bortom horisonten,Barnböcker,E-bok,Österfilialen,2025-02-22,2025-03-14,20.0
+L0571,En annan värld,Roman,Ljudbok,Kulturhuset,2026-07-18,2026-08-08,21.0
+L0572,Livet mellan raderna,Roman,Bok,Stadsbiblioteket,2025-06-13,2025-07-08,25.0
+L0573,Barnens stora bok,Fantasy,Bok,Barnbiblioteket,2025-12-06,2025-12-21,15.0
+L0574,Bortom horisonten,Deckare,Bok,Stadsbiblioteket,2025-01-10,2025-01-25,15.0
+L0575,En annan värld,Poesi,Ljudbok,Kulturhuset,2025-09-07,2025-10-12,35.0
+L0576,En annan värld,Deckare,Bok,Västerfilialen,2025-10-17,2025-10-29,12.0
+L0577,En annan värld,Roman,Bok,Västerfilialen,2026-04-02,2026-04-21,19.0
+L0578,Barnens stora bok,Deckare,Bok,Västerfilialen,2026-07-01,2026-07-24,23.0
+L0579,Den sista resan,Barnböcker,Bok,Österfilialen,2026-03-11,2026-04-09,29.0
+L0580,Stjärnornas väg,Deckare,Ljudbok,Stadsbiblioteket,2025-06-07,2025-06-20,13.0
+L0581,Den hemliga trädgården,Biografi,E-bok,Stadsbiblioteket,2025-09-15,2025-10-05,20.0
+L0582,Bortom horisonten,Deckare,Ljudbok,Söderfilialen,2025-11-20,2025-12-17,27.0
+L0583,Barnens stora bok,Barnböcker,E-bok,Västerfilialen,2025-03-06,2025-04-10,35.0
+L0584,Barnens stora bok,Biografi,Bok,Barnbiblioteket,2025-11-05,2025-12-03,28.0
+L0585,Barnens stora bok,Roman,Bok,Stadsbiblioteket,2025-02-01,2025-02-12,11.0
+L0586,Barnens stora bok,Fantasy,Ljudbok,Barnbiblioteket,2025-05-28,2025-06-25,28.0
+L0587,Den hemliga trädgården,Poesi,Bok,Österfilialen,2026-01-18,2026-02-09,22.0
+L0588,Röster från förr,Biografi,Bok,Stadsbiblioteket,2026-07-05,2026-07-27,22.0
+L0589,Historien om oss,Deckare,Ljudbok,Österfilialen,2025-12-19,2026-01-11,23.0
+L0590,En annan värld,Deckare,Ljudbok,Söderfilialen,2025-07-18,2025-09-19,63.0
+L0591,Vinter i staden,Historia,Bok,Västerfilialen,2026-04-18,2026-05-08,20.0
+L0592,Livet mellan raderna,Deckare,E-bok,Stadsbiblioteket,2026-01-01,2026-01-26,25.0
+L0593,Vinter i staden,Roman,Bok,Västerfilialen,2025-11-22,2025-12-11,19.0
+L0594,Barnens stora bok,Deckare,Bok,Österfilialen,2026-03-15,2026-04-01,17.0
+L0595,Historien om oss,Fantasy,Bok,Västerfilialen,2026-03-23,2026-04-09,17.0
+L0596,Stjärnornas väg,Biografi,Bok,Söderfilialen,2026-05-14,2026-06-10,27.0
+L0597,Barnens stora bok,Deckare,Ljudbok,Söderfilialen,2026-07-06,2026-07-24,18.0
+L0598,Skuggor i natten,Barnböcker,E-bok,Västerfilialen,2025-02-01,2025-02-07,6.0
+L0599,Bortom horisonten,Fantasy,Ljudbok,Söderfilialen,2026-07-19,2026-08-06,18.0
+L0600,Skuggor i natten,Deckare,Bok,Stadsbiblioteket,2025-10-25,2025-11-11,17.0
+L0601,Stjärnornas väg,Barnböcker,Ljudbok,Söderfilialen,2025-09-02,2025-09-27,25.0
+L0602,Mysteriet vid sjön,Poesi,E-bok,Barnbiblioteket,2026-08-03,2026-08-31,28.0
+L0603,En annan värld,Deckare,Ljudbok,Stadsbiblioteket,2026-01-03,2026-01-23,20.0
+L0604,Vinter i staden,Roman,Ljudbok,Österfilialen,2026-01-05,2026-03-07,61.0
+L0605,Stjärnornas väg,Barnböcker,Bok,Österfilialen,2025-04-16,2025-05-09,23.0
+L0606,En annan värld,Historia,Bok,Västerfilialen,2026-01-21,2026-02-06,16.0
+L0607,Mysteriet vid sjön,Roman,Ljudbok,Söderfilialen,2025-09-15,2025-09-27,12.0
+L0608,En annan värld,Deckare,Ljudbok,Kulturhuset,2026-09-11,2026-10-13,32.0
+L0609,Den hemliga trädgården,Fantasy,Bok,Stadsbiblioteket,2026-10-21,2026-10-31,10.0
+L0610,Stjärnornas väg,Barnböcker,Bok,Söderfilialen,2025-12-05,2025-12-18,13.0
+L0611,Skuggor i natten,Barnböcker,Bok,Stadsbiblioteket,2026-10-25,2026-11-11,17.0
+L0612,Den hemliga trädgården,Deckare,Bok,Barnbiblioteket,2026-08-10,2026-08-29,19.0
+L0613,Livet mellan raderna,Poesi,E-bok,Österfilialen,2026-09-06,2026-09-25,19.0
+L0614,Den hemliga trädgården,Biografi,Bok,Söderfilialen,2026-04-05,2026-04-13,8.0
+L0615,Barnens stora bok,Deckare,E-bok,Västerfilialen,2026-09-08,2026-09-23,15.0
+L0616,Stjärnornas väg,Science fiction,E-bok,Stadsbiblioteket,2025-12-17,2026-01-01,15.0
+L0617,Stjärnornas väg,Deckare,Bok,Barnbiblioteket,2025-04-22,2025-05-07,15.0
+L0618,Den sista resan,Science fiction,E-bok,Österfilialen,2026-05-03,2026-05-11,8.0
+L0619,Barnens stora bok,Roman,Bok,Söderfilialen,2025-04-06,2025-05-03,27.0
+L0620,Livet mellan raderna,Roman,Bok,Stadsbiblioteket,2026-03-18,2026-03-25,7.0
+L0621,Den sista resan,Barnböcker,Bok,Söderfilialen,2026-05-09,2026-05-29,20.0
+L0622,Historien om oss,Deckare,Bok,Stadsbiblioteket,2026-03-12,2026-03-21,9.0
+L0623,Den sista resan,Science fiction,Bok,Stadsbiblioteket,2026-09-05,2026-09-22,17.0
+L0624,Vinter i staden,Deckare,E-bok,Västerfilialen,2026-06-17,2026-06-26,9.0
+L0625,Historien om oss,Deckare,E-bok,Stadsbiblioteket,2025-04-20,2025-05-15,25.0
+L0626,Vinter i staden,Barnböcker,Bok,Österfilialen,2026-02-11,2026-02-26,15.0
+L0627,Barnens stora bok,Biografi,Bok,Kulturhuset,2026-07-27,2026-08-10,14.0
+L0628,Livet mellan raderna,Barnböcker,Bok,Västerfilialen,2025-05-02,2025-06-01,30.0
+L0629,Barnens stora bok,Roman,Bok,Söderfilialen,2026-06-05,2026-06-22,17.0
+L0630,Den sista resan,Barnböcker,Ljudbok,Söderfilialen,2025-01-06,2025-01-16,10.0
+L0631,Barnens stora bok,Fantasy,Bok,Söderfilialen,2025-03-07,2025-03-25,18.0
+L0632,Stjärnornas väg,,Tidskrift,Stadsbiblioteket,2026-06-18,2026-06-23,5.0
+L0633,Bortom horisonten,Roman,Bok,Österfilialen,2026-10-18,2026-11-15,28.0
+L0634,Barnens stora bok,Roman,Bok,Stadsbiblioteket,2026-06-07,2026-07-16,39.0
+L0635,Livet mellan raderna,Poesi,Bok,Stadsbiblioteket,2025-01-01,2025-01-13,12.0
+L0636,Röster från förr,Deckare,Ljudbok,Barnbiblioteket,2026-06-15,2026-07-12,27.0
+L0637,Den hemliga trädgården,Science fiction,Bok,Barnbiblioteket,2026-07-27,2026-08-15,19.0
+L0638,En annan värld,Deckare,Bok,Söderfilialen,2026-08-12,2026-09-11,30.0
+L0639,Historien om oss,Fantasy,Bok,Söderfilialen,2025-10-29,2025-11-18,20.0
+L0640,Mysteriet vid sjön,Poesi,E-bok,Västerfilialen,2026-03-30,2026-04-28,29.0
+L0641,Livet mellan raderna,Science fiction,Ljudbok,Söderfilialen,2026-04-17,2026-05-07,20.0
+L0642,Röster från förr,Barnböcker,Bok,Kulturhuset,2025-08-24,2025-09-20,27.0
+L0643,Mysteriet vid sjön,Fantasy,Bok,Västerfilialen,2025-09-27,2025-10-19,22.0
+L0644,Barnens stora bok,Roman,Ljudbok,Stadsbiblioteket,2025-11-18,2025-12-06,18.0
+L0645,Livet mellan raderna,Roman,Bok,Västerfilialen,2025-07-14,2025-08-07,24.0
+L0646,Barnens stora bok,Roman,Ljudbok,Stadsbiblioteket,2026-09-26,2026-10-13,17.0
+L0647,Mysteriet vid sjön,Historia,Ljudbok,Söderfilialen,2026-05-20,2026-06-17,28.0
+L0648,Historien om oss,Science fiction,Bok,Barnbiblioteket,2026-08-12,2026-09-04,23.0
+L0649,En annan värld,Fantasy,E-bok,Stadsbiblioteket,2026-02-12,2026-03-07,23.0
+L0650,Röster från förr,Roman,Ljudbok,Stadsbiblioteket,2025-12-22,2026-01-04,13.0
+L0651,Bortom horisonten,Roman,Ljudbok,Stadsbiblioteket,2026-06-15,2026-07-08,23.0
+L0652,Vinter i staden,Deckare,Bok,Stadsbiblioteket,2025-09-23,2025-10-22,29.0
+L0653,Mysteriet vid sjön,Deckare,Bok,Kulturhuset,2026-01-10,2026-01-31,21.0
+L0654,Röster från förr,Biografi,Tidskrift,Västerfilialen,2025-07-04,2025-07-18,14.0
+L0655,Mysteriet vid sjön,Barnböcker,E-bok,Österfilialen,2025-10-04,2025-10-29,25.0
+L0656,En annan värld,Deckare,Bok,Barnbiblioteket,2025-01-10,2025-02-11,32.0
+L0657,Röster från förr,Barnböcker,Ljudbok,Kulturhuset,2026-07-01,2026-07-13,12.0
+L0658,Mysteriet vid sjön,Deckare,Ljudbok,Söderfilialen,2025-06-17,2025-07-04,17.0
+L0659,Vinter i staden,Fantasy,Bok,Söderfilialen,2025-12-09,2026-01-01,23.0
+L0660,Historien om oss,Deckare,E-bok,Västerfilialen,2026-09-13,2026-09-28,15.0
+L0661,Mysteriet vid sjön,Fantasy,Bok,Västerfilialen,2025-12-30,2026-01-17,18.0
+L0662,Den hemliga trädgården,Poesi,Ljudbok,Västerfilialen,2026-10-09,2026-10-30,21.0
+L0663,Barnens stora bok,Historia,Bok,Österfilialen,2026-10-09,2026-11-04,26.0
+L0664,Vinter i staden,Barnböcker,E-bok,Kulturhuset,2025-10-26,2025-11-19,24.0
+L0665,Historien om oss,Roman,Bok,Stadsbiblioteket,2026-08-25,2026-09-17,23.0
+L0666,Mysteriet vid sjön,Deckare,Bok,Stadsbiblioteket,2025-03-23,2025-04-10,18.0
+L0667,Den sista resan,Deckare,Ljudbok,Söderfilialen,2026-07-16,2026-08-09,24.0
+L0668,Stjärnornas väg,Fantasy,Bok,Stadsbiblioteket,2026-02-04,2026-02-24,20.0
+L0669,En annan värld,Barnböcker,Bok,Västerfilialen,2026-06-24,2026-07-18,24.0
+L0670,Bortom horisonten,Biografi,Bok,Barnbiblioteket,2025-10-06,2025-10-22,
+L0671,Vinter i staden,Roman,Ljudbok,Österfilialen,2026-09-04,2026-09-15,11.0
+L0672,Historien om oss,Biografi,Ljudbok,Kulturhuset,2026-05-09,2026-06-02,24.0
+L0673,Skuggor i natten,Fantasy,Bok,Österfilialen,2025-06-09,2025-07-03,24.0
+L0674,Historien om oss,Poesi,Bok,Stadsbiblioteket,2026-05-19,2026-06-03,15.0
+L0675,Stjärnornas väg,Fantasy,Bok,Kulturhuset,2026-09-04,2026-09-17,13.0
+L0676,Livet mellan raderna,Roman,Bok,Stadsbiblioteket,2026-10-24,2026-11-18,25.0
+L0677,Historien om oss,Barnböcker,Ljudbok,Österfilialen,2026-06-14,2026-07-02,18.0
+L0678,Mysteriet vid sjön,Deckare,Bok,Stadsbiblioteket,2026-02-27,2026-03-14,15.0
+L0679,Skuggor i natten,Roman,Ljudbok,Söderfilialen,2026-09-25,2026-10-14,19.0
+L0680,Skuggor i natten,Poesi,Bok,Stadsbiblioteket,2025-07-10,2025-08-03,24.0
+L0681,Vinter i staden,Deckare,Bok,Stadsbiblioteket,2025-08-27,2025-09-06,10.0
+L0682,Stjärnornas väg,Historia,Bok,Stadsbiblioteket,2026-04-20,2026-05-16,26.0
+L0683,Den hemliga trädgården,Fantasy,Bok,Söderfilialen,2025-02-27,2025-03-26,27.0
+L0684,Mysteriet vid sjön,Deckare,Ljudbok,Stadsbiblioteket,2025-01-13,2025-02-16,34.0
+L0685,Mysteriet vid sjön,Barnböcker,Bok,Kulturhuset,2025-09-11,2025-10-03,22.0
+L0686,Skuggor i natten,Historia,Bok,Kulturhuset,2026-02-03,2026-02-15,12.0
+L0687,Livet mellan raderna,Roman,Bok,Västerfilialen,2026-07-17,2026-08-11,25.0
+L0688,Bortom horisonten,Fantasy,Bok,Stadsbiblioteket,2025-04-26,2025-05-30,34.0
+L0689,Stjärnornas väg,Roman,Bok,Barnbiblioteket,2025-05-03,2025-05-14,11.0
+L0690,Vinter i staden,Barnböcker,Bok,Söderfilialen,2026-01-16,2026-01-31,15.0
+L0691,Vinter i staden,Deckare,Bok,,2026-10-03,2026-10-20,17.0
+L0692,Livet mellan raderna,Barnböcker,Ljudbok,Österfilialen,2026-07-26,2026-08-15,20.0
+L0693,Historien om oss,Historia,Bok,Stadsbiblioteket,2025-01-22,2025-02-18,27.0
+L0694,Röster från förr,Historia,Bok,Stadsbiblioteket,2026-07-10,2026-07-26,16.0
+L0695,Historien om oss,Fantasy,Ljudbok,Barnbiblioteket,2026-04-25,2026-05-13,18.0
+L0696,Röster från förr,Biografi,Bok,Österfilialen,2025-09-27,2025-10-17,20.0
+L0697,En annan värld,Science fiction,E-bok,Kulturhuset,2025-07-09,2025-07-25,16.0
+L0698,Historien om oss,Deckare,Ljudbok,Västerfilialen,2026-02-01,2026-02-17,16.0
+L0699,Stjärnornas väg,Roman,Bok,Stadsbiblioteket,2025-11-27,2025-12-16,19.0
+L0700,Den hemliga trädgården,Deckare,Bok,Stadsbiblioteket,2025-02-02,2025-02-21,19.0
+L0701,Livet mellan raderna,Roman,Ljudbok,Stadsbiblioteket,2026-05-17,2026-05-31,14.0
+L0702,Vinter i staden,Science fiction,Ljudbok,Kulturhuset,2026-05-19,2026-06-16,28.0
+L0703,En annan värld,Barnböcker,Ljudbok,Österfilialen,2026-07-26,2026-08-16,21.0
+L0704,En annan värld,Barnböcker,Ljudbok,Stadsbiblioteket,2025-02-11,2025-03-01,18.0
+L0705,Stjärnornas väg,Deckare,Bok,Kulturhuset,2025-04-10,2025-05-04,24.0
+L0706,Vinter i staden,Barnböcker,Bok,Stadsbiblioteket,2026-07-26,2026-08-25,30.0
+L0707,Barnens stora bok,Barnböcker,Bok,Stadsbiblioteket,2026-04-15,2026-05-08,23.0
+L0708,En annan värld,Biografi,E-bok,Barnbiblioteket,2025-06-11,2025-06-23,12.0
+L0709,En annan värld,Barnböcker,Bok,Västerfilialen,2025-11-29,2025-12-22,23.0
+L0710,Mysteriet vid sjön,Roman,E-bok,Västerfilialen,2025-08-08,2025-08-23,15.0
+L0711,Historien om oss,Poesi,Bok,Stadsbiblioteket,2026-04-04,2026-04-24,20.0
+L0712,Historien om oss,Fantasy,Bok,Österfilialen,2025-01-07,2025-03-07,59.0
+L0713,Historien om oss,Roman,E-bok,Söderfilialen,2026-07-21,2026-08-17,27.0
+L0714,Bortom horisonten,Science fiction,Bok,Stadsbiblioteket,2026-01-11,2026-02-05,25.0
+L0715,Röster från förr,Biografi,Bok,Stadsbiblioteket,2026-02-14,2026-03-03,17.0
+L0716,Bortom horisonten,Barnböcker,Bok,Västerfilialen,2026-08-14,2026-10-21,68.0
+L0717,Den sista resan,Deckare,Bok,Västerfilialen,2026-01-26,2026-02-08,13.0
+L0718,Barnens stora bok,Barnböcker,Ljudbok,Barnbiblioteket,2025-08-21,2025-09-21,31.0
+L0719,Stjärnornas väg,Deckare,Bok,Kulturhuset,2026-01-27,2026-02-11,15.0
+L0720,Bortom horisonten,Historia,Tidskrift,Barnbiblioteket,2025-02-21,2025-03-11,18.0
+L0721,Röster från förr,Deckare,Bok,Österfilialen,2026-06-01,2026-06-25,24.0
+L0722,Röster från förr,Biografi,Bok,Kulturhuset,2025-02-20,2025-03-18,26.0
+L0723,Röster från förr,Barnböcker,Bok,Stadsbiblioteket,2025-05-14,2025-05-27,13.0
+L0724,Bortom horisonten,Fantasy,Bok,Österfilialen,2026-06-21,2026-07-17,26.0
+L0725,Historien om oss,Deckare,Bok,Kulturhuset,2025-04-02,2025-04-25,23.0
+L0726,Stjärnornas väg,Poesi,E-bok,Barnbiblioteket,2025-06-23,2025-07-19,26.0
+L0727,Den sista resan,Deckare,Ljudbok,Stadsbiblioteket,2026-03-28,2026-04-09,12.0
+L0728,Historien om oss,Fantasy,E-bok,Stadsbiblioteket,2025-02-25,2025-03-26,29.0
+L0729,Livet mellan raderna,Fantasy,Ljudbok,Kulturhuset,2025-01-15,2025-01-29,14.0
+L0730,Stjärnornas väg,Biografi,Ljudbok,Söderfilialen,2025-07-28,2025-08-19,22.0
+L0731,Röster från förr,Roman,Ljudbok,Söderfilialen,2025-01-19,2025-02-08,20.0
+L0732,Barnens stora bok,Fantasy,Bok,Barnbiblioteket,2026-09-25,2026-10-18,23.0
+L0733,Den hemliga trädgården,Historia,Ljudbok,Kulturhuset,2025-10-05,2025-10-30,25.0
+L0734,Mysteriet vid sjön,Poesi,Bok,Västerfilialen,2025-08-25,2025-09-18,24.0
+L0735,En annan värld,Biografi,Bok,Söderfilialen,2026-09-04,2026-10-01,27.0
+L0736,Vinter i staden,Fantasy,Bok,Stadsbiblioteket,2025-11-09,2025-12-04,25.0
+L0737,Den hemliga trädgården,Historia,Bok,Barnbiblioteket,2025-12-30,2026-01-07,8.0
+L0738,Den hemliga trädgården,Poesi,Tidskrift,Stadsbiblioteket,2025-01-31,2025-02-20,20.0
+L0739,Livet mellan raderna,Deckare,Bok,Barnbiblioteket,2025-05-21,2025-06-03,13.0
+L0740,En annan värld,Deckare,Tidskrift,Barnbiblioteket,2026-08-10,2026-08-24,14.0
+L0741,Röster från förr,Deckare,Bok,Söderfilialen,2025-05-15,2025-06-09,25.0
+L0742,Barnens stora bok,Science fiction,Bok,Barnbiblioteket,2026-06-21,2026-06-28,7.0
+L0743,Stjärnornas väg,Science fiction,Bok,Söderfilialen,2026-08-02,2026-08-26,24.0
+L0744,Mysteriet vid sjön,Barnböcker,Ljudbok,Kulturhuset,2025-01-31,2025-02-19,19.0
+L0745,Bortom horisonten,Poesi,Bok,Österfilialen,2026-10-15,2026-11-08,24.0
+L0746,Barnens stora bok,Fantasy,E-bok,Stadsbiblioteket,2026-09-24,2026-10-17,23.0
+L0747,Vinter i staden,Roman,Ljudbok,Söderfilialen,2025-01-27,2025-02-07,11.0
+L0748,Skuggor i natten,Barnböcker,Bok,Stadsbiblioteket,2025-07-08,2025-07-28,20.0
+L0749,Livet mellan raderna,Barnböcker,Bok,Stadsbiblioteket,2026-02-23,2026-03-06,11.0
+L0750,Röster från förr,Deckare,Tidskrift,Kulturhuset,2025-03-09,2025-04-04,26.0
+L0751,Röster från förr,Science fiction,Ljudbok,Kulturhuset,2025-11-29,2025-12-21,22.0
+L0752,Barnens stora bok,Roman,Tidskrift,Söderfilialen,2025-11-17,2025-11-28,11.0
+L0753,Den hemliga trädgården,Roman,Bok,Österfilialen,2025-02-09,2025-03-24,43.0
+L0754,Mysteriet vid sjön,Biografi,Bok,Söderfilialen,2025-02-10,2025-04-02,51.0
+L0755,Röster från förr,Science fiction,Ljudbok,Kulturhuset,2026-02-12,2026-03-07,23.0
+L0756,En annan värld,Science fiction,Bok,Västerfilialen,2026-06-14,2026-07-10,26.0
+L0757,Skuggor i natten,Deckare,E-bok,Österfilialen,2025-04-26,2025-05-10,14.0
+L0758,Den sista resan,Roman,Ljudbok,Österfilialen,2025-07-03,2025-07-21,18.0
+L0759,Röster från förr,Fantasy,E-bok,Västerfilialen,2025-09-14,2025-10-10,26.0
+L0760,En annan värld,Historia,Bok,Västerfilialen,2026-04-06,2026-05-06,30.0
+L0761,Barnens stora bok,Poesi,Bok,Kulturhuset,2026-09-19,2026-10-11,22.0
+L0762,Historien om oss,Deckare,Bok,Västerfilialen,2025-06-03,2025-07-02,29.0
+L0763,Skuggor i natten,Fantasy,Bok,Österfilialen,2026-04-02,2026-04-23,21.0
+L0764,Mysteriet vid sjön,Roman,Bok,Österfilialen,2026-04-15,2026-05-05,20.0
+L0765,Historien om oss,Deckare,E-bok,Kulturhuset,2025-09-01,2025-10-15,44.0
+L0766,Skuggor i natten,Historia,Ljudbok,Stadsbiblioteket,2026-09-27,2026-10-21,24.0
+L0767,Skuggor i natten,Deckare,Ljudbok,Västerfilialen,2025-12-24,2026-01-17,24.0
+L0768,Röster från förr,Roman,,Västerfilialen,2025-04-22,2025-05-07,15.0
+L0769,Historien om oss,Biografi,E-bok,Barnbiblioteket,2026-09-02,2026-10-31,59.0
+L0770,En annan värld,Roman,Bok,Stadsbiblioteket,2025-11-27,2025-12-11,14.0
+L0771,Röster från förr,Fantasy,Bok,Västerfilialen,2025-03-08,2025-03-27,19.0
+L0772,Den sista resan,Historia,Bok,Västerfilialen,2025-08-03,2025-09-01,29.0
+L0773,Historien om oss,,E-bok,Österfilialen,2026-05-11,2026-05-30,19.0
+L0774,Mysteriet vid sjön,Biografi,E-bok,Barnbiblioteket,2026-06-23,2026-07-06,13.0
+L0775,Livet mellan raderna,Barnböcker,Bok,Österfilialen,2026-06-17,2026-07-11,24.0
+L0776,Livet mellan raderna,Deckare,Bok,Österfilialen,2025-01-02,2025-01-19,17.0
+L0777,Röster från förr,Poesi,Bok,Kulturhuset,2026-09-23,2026-10-25,32.0
+L0778,Skuggor i natten,Fantasy,Bok,Kulturhuset,2025-10-16,2025-11-02,17.0
+L0779,Vinter i staden,Historia,Bok,Västerfilialen,2025-04-27,2025-05-16,19.0
+L0780,Mysteriet vid sjön,Science fiction,Bok,Söderfilialen,2025-12-13,2026-01-20,38.0
+L0781,Röster från förr,Historia,Ljudbok,Söderfilialen,2025-06-09,2025-06-23,14.0
+L0782,En annan värld,Barnböcker,Bok,Västerfilialen,2025-02-27,2025-03-30,31.0
+L0783,Historien om oss,Deckare,Ljudbok,Österfilialen,2025-01-20,2025-02-14,25.0
+L0784,Bortom horisonten,Fantasy,Bok,Söderfilialen,2025-02-01,2025-02-17,16.0
+L0785,Historien om oss,Deckare,Bok,Österfilialen,2026-02-03,2026-02-19,16.0
+L0786,Historien om oss,Deckare,Ljudbok,Kulturhuset,2026-02-28,2026-04-02,33.0
+L0787,En annan värld,Roman,Bok,Kulturhuset,2025-08-10,2025-09-04,25.0
+L0788,Mysteriet vid sjön,Barnböcker,Ljudbok,Stadsbiblioteket,2025-01-26,2025-02-17,22.0
+L0789,Stjärnornas väg,Fantasy,Bok,Västerfilialen,2026-06-21,2026-07-28,37.0
+L0790,Skuggor i natten,Barnböcker,Bok,Västerfilialen,2025-07-30,2025-08-31,32.0
+L0791,Barnens stora bok,Poesi,Ljudbok,Söderfilialen,2025-11-15,2026-01-12,58.0
+L0792,Livet mellan raderna,Deckare,Ljudbok,Västerfilialen,2025-11-16,2025-12-11,25.0
+L0793,Den sista resan,Fantasy,Bok,Västerfilialen,2025-07-17,2025-08-04,18.0
+L0794,En annan värld,Poesi,E-bok,Stadsbiblioteket,2025-01-16,2025-02-01,16.0
+L0795,Vinter i staden,Fantasy,Tidskrift,Österfilialen,2025-11-23,2025-12-10,17.0
+L0796,Den sista resan,Roman,Bok,Söderfilialen,2026-07-08,2026-07-27,19.0
+L0797,Röster från förr,Deckare,Bok,Stadsbiblioteket,2026-01-28,2026-02-10,13.0
+L0798,Barnens stora bok,Historia,Bok,Österfilialen,2026-04-02,2026-04-17,15.0
+L0799,Röster från förr,Deckare,Tidskrift,Västerfilialen,2026-07-01,2026-07-19,18.0
+L0800,Mysteriet vid sjön,,Bok,Västerfilialen,2026-04-25,2026-05-14,19.0
+L0801,Barnens stora bok,Poesi,Bok,Österfilialen,2025-08-26,2025-09-15,20.0
+L0802,Den sista resan,Barnböcker,Ljudbok,Kulturhuset,2025-12-05,2026-01-31,57.0
+L0803,Den hemliga trädgården,Roman,Ljudbok,Stadsbiblioteket,2025-12-26,2026-01-10,15.0
+L0804,Den hemliga trädgården,Fantasy,E-bok,Österfilialen,2025-04-20,2025-05-18,28.0
+L0805,Röster från förr,Roman,E-bok,Söderfilialen,2026-08-28,2026-09-24,27.0
+L0806,Röster från förr,Roman,Tidskrift,Söderfilialen,2026-08-29,2026-09-17,19.0
+L0807,Bortom horisonten,Deckare,E-bok,Västerfilialen,2025-08-30,2025-09-16,17.0
+L0808,Den hemliga trädgården,Fantasy,Bok,Kulturhuset,2026-04-20,2026-04-28,8.0
+L0809,Skuggor i natten,Biografi,Ljudbok,Söderfilialen,2025-03-13,2025-04-05,23.0
+L0810,Skuggor i natten,Deckare,Bok,Söderfilialen,2025-04-03,2025-04-18,15.0
+L0811,Vinter i staden,Historia,Bok,Kulturhuset,2025-05-31,2025-06-15,15.0
+L0812,Den hemliga trädgården,Biografi,Ljudbok,Kulturhuset,2025-11-03,2025-11-18,15.0
+L0813,Skuggor i natten,Poesi,E-bok,Söderfilialen,2025-12-19,2025-12-26,7.0
+L0814,Vinter i staden,Science fiction,Tidskrift,Stadsbiblioteket,2026-01-14,2026-02-03,20.0
+L0815,Den hemliga trädgården,Science fiction,Ljudbok,Stadsbiblioteket,2025-04-23,2025-05-11,18.0
+L0816,Livet mellan raderna,Roman,Bok,Västerfilialen,2026-02-20,2026-03-06,14.0
+L0817,Stjärnornas väg,Roman,Tidskrift,Österfilialen,2026-07-23,2026-08-26,34.0
+L0818,Den hemliga trädgården,Deckare,Bok,Västerfilialen,2025-01-12,2025-02-21,40.0
+L0819,Den hemliga trädgården,Deckare,E-bok,Kulturhuset,2025-05-20,2025-05-29,9.0
+L0820,Vinter i staden,Deckare,Bok,Söderfilialen,2026-10-01,2026-10-25,24.0
+L0821,Den hemliga trädgården,Deckare,E-bok,Söderfilialen,2025-08-20,2025-09-12,23.0
+L0822,Vinter i staden,Biografi,Bok,Stadsbiblioteket,2026-07-14,2026-07-30,16.0
+L0823,Historien om oss,Biografi,Tidskrift,Stadsbiblioteket,2025-04-26,2025-05-15,19.0
+L0824,Barnens stora bok,Roman,Bok,Söderfilialen,2026-04-22,2026-05-04,12.0
+L0825,Skuggor i natten,Historia,Bok,Söderfilialen,2025-03-21,2025-03-30,9.0
+L0826,Vinter i staden,Roman,Ljudbok,Söderfilialen,2026-04-26,2026-05-07,11.0
+L0827,Skuggor i natten,Fantasy,Bok,Barnbiblioteket,2025-10-29,2025-11-18,20.0
+L0828,Röster från förr,Roman,Bok,Stadsbiblioteket,2026-10-07,2026-10-16,9.0
+L0829,Bortom horisonten,Deckare,Bok,Stadsbiblioteket,2026-10-02,2026-11-02,31.0
+L0830,Bortom horisonten,Fantasy,Bok,Västerfilialen,2025-10-15,2025-11-10,26.0
+L0831,En annan värld,Historia,Bok,Stadsbiblioteket,2025-06-04,2025-06-26,22.0
+L0832,Stjärnornas väg,Fantasy,Bok,Stadsbiblioteket,2025-02-03,2025-02-18,15.0
+L0833,Bortom horisonten,Barnböcker,Bok,Kulturhuset,2026-05-23,2026-06-07,15.0
+L0834,Den hemliga trädgården,Deckare,Bok,Österfilialen,2025-12-20,2026-01-29,40.0
+L0835,Mysteriet vid sjön,Fantasy,Ljudbok,Västerfilialen,2026-05-03,2026-05-17,14.0
+L0836,Mysteriet vid sjön,Deckare,Ljudbok,Stadsbiblioteket,2025-09-26,2025-10-15,19.0
+L0837,Den hemliga trädgården,Historia,Tidskrift,Västerfilialen,2026-01-27,2026-03-04,36.0
+L0838,Den sista resan,Science fiction,Ljudbok,Kulturhuset,2026-09-18,2026-10-12,24.0
+L0839,Livet mellan raderna,Historia,Bok,Västerfilialen,2025-09-19,2025-10-09,20.0
+L0840,Barnens stora bok,Fantasy,Ljudbok,Stadsbiblioteket,2026-06-17,2026-06-26,9.0
+L0841,Historien om oss,Barnböcker,Bok,Stadsbiblioteket,2025-01-09,2025-02-05,27.0
+L0842,Barnens stora bok,Deckare,Bok,Stadsbiblioteket,2025-09-15,2025-10-10,25.0
+L0843,Barnens stora bok,Poesi,E-bok,Västerfilialen,2025-08-11,2025-09-11,31.0
+L0844,Historien om oss,Biografi,Tidskrift,Österfilialen,2026-10-26,2026-11-25,30.0
+L0845,Barnens stora bok,Roman,Tidskrift,Västerfilialen,2025-10-29,2025-11-23,25.0
+L0846,Den hemliga trädgården,Fantasy,Ljudbok,Stadsbiblioteket,2025-11-28,2025-12-16,18.0
+L0847,Livet mellan raderna,Poesi,Bok,Österfilialen,2025-12-07,2025-12-29,22.0
+L0848,Den hemliga trädgården,Roman,E-bok,Stadsbiblioteket,2026-09-17,2026-10-10,23.0
+L0849,Röster från förr,Historia,Bok,Kulturhuset,2025-08-12,2025-09-01,20.0
+L0850,Skuggor i natten,Barnböcker,Bok,Söderfilialen,2025-09-14,2025-10-06,22.0
+L0851,Mysteriet vid sjön,Historia,Bok,Västerfilialen,2025-02-08,2025-03-08,28.0
+L0852,En annan värld,Roman,Ljudbok,Österfilialen,2026-05-05,2026-05-20,
+L0853,Vinter i staden,Deckare,Tidskrift,Österfilialen,2025-08-20,2025-08-31,11.0
+L0854,Den sista resan,Historia,Bok,Söderfilialen,2025-12-08,2025-12-30,22.0
+L0855,Stjärnornas väg,Biografi,Tidskrift,Stadsbiblioteket,2026-01-10,2026-01-19,9.0
+L0856,Den sista resan,Deckare,Bok,Stadsbiblioteket,2026-07-22,2026-08-14,23.0
+L0857,Röster från förr,Historia,Bok,Österfilialen,2026-10-08,2026-11-08,31.0
+L0858,Mysteriet vid sjön,Fantasy,Bok,Österfilialen,2026-08-31,2026-09-22,22.0
+L0859,Röster från förr,Poesi,Ljudbok,Barnbiblioteket,2026-07-01,2026-07-28,27.0
+L0860,Barnens stora bok,Roman,Bok,Västerfilialen,2025-02-13,2025-03-06,21.0
+L0861,Mysteriet vid sjön,Deckare,E-bok,Barnbiblioteket,2026-07-04,2026-07-28,24.0
+L0862,Skuggor i natten,Deckare,Ljudbok,Stadsbiblioteket,2026-09-26,2026-10-17,21.0
+L0863,Den sista resan,Barnböcker,Bok,Söderfilialen,2025-11-11,2025-12-03,22.0
+L0864,Vinter i staden,Biografi,E-bok,,2026-05-25,2026-06-12,18.0
+L0865,Skuggor i natten,Fantasy,Tidskrift,Söderfilialen,2026-02-16,2026-03-17,29.0
+L0866,Stjärnornas väg,Deckare,Bok,Stadsbiblioteket,2026-08-31,2026-10-01,31.0
+L0867,Bortom horisonten,Biografi,Bok,Barnbiblioteket,2026-01-14,2026-02-07,24.0
+L0868,Den sista resan,Barnböcker,Bok,Söderfilialen,2026-01-21,2026-03-03,41.0
+L0869,Barnens stora bok,Science fiction,Bok,Österfilialen,2026-08-31,2026-09-22,22.0
+L0870,Skuggor i natten,Roman,Bok,Barnbiblioteket,2025-10-05,2025-10-15,10.0
+L0871,Skuggor i natten,Deckare,Bok,Barnbiblioteket,2026-09-03,2026-09-15,12.0
+L0872,Vinter i staden,Fantasy,Bok,Söderfilialen,2026-07-26,2026-08-07,12.0
+L0873,Stjärnornas väg,Roman,Bok,Söderfilialen,2026-07-07,2026-07-28,21.0
+L0874,Historien om oss,Roman,Bok,Barnbiblioteket,2026-05-01,2026-06-19,49.0
+L0875,En annan värld,Roman,Bok,Österfilialen,2025-08-03,2025-08-24,21.0
+L0876,Livet mellan raderna,Deckare,Bok,Söderfilialen,2025-06-30,2025-07-18,18.0
+L0877,Vinter i staden,Biografi,Bok,Stadsbiblioteket,2026-04-01,2026-04-19,18.0
+L0878,Livet mellan raderna,Deckare,Ljudbok,Österfilialen,2025-08-22,2025-09-06,15.0
+L0879,Den hemliga trädgården,Roman,Bok,Österfilialen,2025-03-17,2025-04-16,30.0
+L0880,Livet mellan raderna,Deckare,Ljudbok,Söderfilialen,2026-01-18,2026-02-20,33.0
+L0881,Stjärnornas väg,Deckare,Ljudbok,Stadsbiblioteket,2025-12-10,2026-01-08,29.0
+L0882,Bortom horisonten,Deckare,Bok,Stadsbiblioteket,2025-12-18,2026-01-18,31.0
+L0883,Livet mellan raderna,Biografi,E-bok,Stadsbiblioteket,2025-06-24,2025-07-07,13.0
+L0884,Livet mellan raderna,Roman,Bok,Stadsbiblioteket,2026-08-29,2026-09-23,25.0
+L0885,Skuggor i natten,Fantasy,E-bok,Österfilialen,2025-09-11,2025-09-28,17.0
+L0886,Skuggor i natten,Poesi,Bok,Söderfilialen,2026-03-04,2026-03-22,18.0
+L0887,En annan värld,Biografi,Bok,Österfilialen,2026-03-12,2026-04-05,24.0
+L0888,Livet mellan raderna,Historia,Bok,Stadsbiblioteket,2025-01-13,2025-01-27,14.0
+L0889,Bortom horisonten,Poesi,Bok,Västerfilialen,2026-10-26,2026-11-20,25.0
+L0890,Stjärnornas väg,Poesi,Bok,Stadsbiblioteket,2025-01-25,2025-02-21,27.0
+L0891,En annan värld,Historia,Ljudbok,Stadsbiblioteket,2026-01-15,2026-01-31,16.0
+L0892,Bortom horisonten,Fantasy,Ljudbok,Västerfilialen,2025-02-03,2025-02-19,16.0
+L0893,Barnens stora bok,Barnböcker,Bok,Österfilialen,2025-08-01,2025-08-21,20.0
+L0894,Vinter i staden,Science fiction,Bok,Kulturhuset,2026-01-08,2026-01-26,18.0
+L0895,Livet mellan raderna,Deckare,E-bok,Stadsbiblioteket,2026-01-11,2026-01-30,19.0
+L0896,Röster från förr,Deckare,Bok,Barnbiblioteket,2026-07-07,2026-07-23,16.0
+L0897,Skuggor i natten,Barnböcker,Ljudbok,Kulturhuset,2025-08-03,2025-08-30,27.0
+L0898,Mysteriet vid sjön,Roman,Bok,Söderfilialen,2025-03-06,2025-03-22,16.0
+L0899,Den sista resan,Historia,Bok,Kulturhuset,2026-06-29,2026-07-10,11.0
+L0900,Historien om oss,Science fiction,Bok,Stadsbiblioteket,2025-07-12,2025-07-24,12.0
+L0901,Barnens stora bok,Deckare,Bok,Västerfilialen,2025-03-20,2025-03-26,6.0
+L0902,Vinter i staden,Fantasy,Tidskrift,Söderfilialen,2025-01-24,2025-02-14,21.0
+L0903,En annan värld,Roman,E-bok,Kulturhuset,2026-03-07,2026-04-10,34.0
+L0904,Mysteriet vid sjön,Fantasy,E-bok,Västerfilialen,2026-10-23,2026-11-18,26.0
+L0905,Historien om oss,Historia,Bok,Söderfilialen,2026-08-31,2026-09-12,12.0
+L0906,Skuggor i natten,Barnböcker,Bok,Kulturhuset,2025-06-25,2025-07-18,23.0
+L0907,Stjärnornas väg,Roman,Bok,Stadsbiblioteket,2025-06-01,2025-07-01,30.0
+L0908,Mysteriet vid sjön,Deckare,Bok,Barnbiblioteket,2025-06-07,2025-06-22,15.0
+L0909,Mysteriet vid sjön,Roman,Bok,Västerfilialen,2025-09-24,2025-10-05,11.0
+L0910,Stjärnornas väg,,Bok,Stadsbiblioteket,2026-07-07,2026-08-10,34.0
+L0911,Historien om oss,Science fiction,Bok,Barnbiblioteket,2026-04-15,2026-04-28,13.0
+L0912,Barnens stora bok,Science fiction,Tidskrift,Västerfilialen,2026-05-01,2026-05-19,18.0
+L0913,Skuggor i natten,Barnböcker,Ljudbok,Barnbiblioteket,2025-05-31,2025-06-19,19.0
+L0914,Livet mellan raderna,Historia,Bok,Stadsbiblioteket,2025-05-23,2025-06-15,23.0
+L0915,Historien om oss,Roman,Bok,Söderfilialen,2026-04-02,2026-04-25,23.0
+L0916,Den sista resan,Deckare,Bok,Kulturhuset,2025-07-20,2025-08-18,29.0
+L0917,Den hemliga trädgården,Roman,Bok,Söderfilialen,2026-06-09,2026-06-27,18.0
+L0918,Vinter i staden,Barnböcker,Bok,Kulturhuset,2025-06-01,2025-07-17,46.0
+L0919,Mysteriet vid sjön,Poesi,Ljudbok,Stadsbiblioteket,2025-11-12,2025-12-01,19.0
+L0920,Den hemliga trädgården,Deckare,Ljudbok,Österfilialen,2025-10-23,2025-11-05,13.0
+L0921,Vinter i staden,Barnböcker,E-bok,Stadsbiblioteket,2025-05-23,2025-06-06,14.0
+L0922,Historien om oss,Poesi,E-bok,Kulturhuset,2025-03-09,2025-05-23,75.0
+L0923,Historien om oss,Deckare,Bok,Söderfilialen,2026-03-01,2026-03-26,25.0
+L0924,Mysteriet vid sjön,Roman,Ljudbok,Kulturhuset,2026-07-22,2026-08-09,18.0
+L0925,Barnens stora bok,Barnböcker,Bok,Österfilialen,2026-07-27,2026-08-20,24.0
+L0926,Röster från förr,Deckare,E-bok,Kulturhuset,2026-04-29,2026-05-24,25.0
+L0927,Bortom horisonten,Fantasy,Bok,Stadsbiblioteket,2026-10-23,2026-11-15,23.0
+L0928,Röster från förr,Biografi,Ljudbok,Söderfilialen,2026-05-08,2026-05-28,20.0
+L0929,Mysteriet vid sjön,Roman,Ljudbok,Stadsbiblioteket,2025-05-03,2025-05-23,20.0
+L0930,Vinter i staden,Roman,Bok,Kulturhuset,2025-05-19,2025-06-18,30.0
+L0931,Den sista resan,Fantasy,Bok,Barnbiblioteket,2025-02-19,2025-02-28,9.0
+L0932,Barnens stora bok,Barnböcker,Bok,Österfilialen,2026-09-06,2026-09-25,19.0
+L0933,Stjärnornas väg,Fantasy,Ljudbok,Kulturhuset,2025-11-05,2025-11-19,14.0
+L0934,Stjärnornas väg,Fantasy,Ljudbok,Kulturhuset,2026-06-15,2026-07-04,19.0
+L0935,En annan värld,Deckare,Bok,Österfilialen,2025-04-15,2025-05-08,23.0
+L0936,Den sista resan,Barnböcker,Ljudbok,Österfilialen,2026-06-29,2026-07-11,12.0
+L0937,Bortom horisonten,Barnböcker,Tidskrift,Söderfilialen,2025-04-30,2025-05-18,18.0
+L0938,Livet mellan raderna,Barnböcker,Bok,Västerfilialen,2026-06-20,2026-08-04,45.0
+L0939,Röster från förr,Barnböcker,Bok,Stadsbiblioteket,2025-05-12,2025-06-04,23.0
+L0940,Skuggor i natten,Deckare,Ljudbok,Västerfilialen,2025-04-25,2025-06-05,41.0
+L0941,Den sista resan,Biografi,Bok,Barnbiblioteket,2026-06-10,2026-07-24,44.0
+L0942,Den sista resan,Deckare,Ljudbok,Stadsbiblioteket,2026-09-09,2026-10-01,22.0
+L0943,Röster från förr,Barnböcker,Tidskrift,Barnbiblioteket,2025-05-30,2025-06-17,18.0
+L0944,Skuggor i natten,Fantasy,E-bok,Stadsbiblioteket,2026-09-20,2026-10-14,24.0
+L0945,Den sista resan,Deckare,Bok,Stadsbiblioteket,2026-06-26,2026-07-24,28.0
+L0946,Stjärnornas väg,Science fiction,Ljudbok,Söderfilialen,2025-08-08,2025-08-23,15.0
+L0947,Den hemliga trädgården,Historia,Bok,Österfilialen,2026-03-27,2026-04-24,28.0
+L0948,Mysteriet vid sjön,Barnböcker,Bok,Kulturhuset,2025-04-26,2025-05-16,20.0
+L0949,Bortom horisonten,Barnböcker,E-bok,Stadsbiblioteket,2026-01-05,2026-01-24,19.0
+L0950,Den hemliga trädgården,Historia,Ljudbok,Stadsbiblioteket,2025-11-16,2025-12-10,24.0
+L0951,Mysteriet vid sjön,Barnböcker,Ljudbok,Österfilialen,2025-07-13,2025-09-14,63.0
+L0952,Den hemliga trädgården,Roman,Bok,Västerfilialen,2025-04-18,2025-05-06,18.0
+L0953,Livet mellan raderna,Historia,Tidskrift,Västerfilialen,2026-02-15,2026-03-11,24.0
+L0954,Den hemliga trädgården,Deckare,Ljudbok,Kulturhuset,2025-12-13,2025-12-31,18.0
+L0955,Den hemliga trädgården,Fantasy,Ljudbok,Söderfilialen,2026-05-27,2026-06-15,19.0
+L0956,Historien om oss,Roman,E-bok,Kulturhuset,2025-12-31,2026-02-02,33.0
+L0957,Den sista resan,Barnböcker,Bok,Stadsbiblioteket,2025-05-31,2025-06-11,11.0
+L0958,Bortom horisonten,Barnböcker,Bok,Stadsbiblioteket,2025-02-24,2025-03-17,21.0
+L0959,Mysteriet vid sjön,Deckare,E-bok,Stadsbiblioteket,2025-12-01,2026-01-01,31.0
+L0960,En annan värld,Fantasy,Bok,Söderfilialen,2025-07-26,2025-08-21,26.0
+L0961,Den hemliga trädgården,Deckare,Ljudbok,Barnbiblioteket,2026-07-14,2026-08-06,23.0
+L0962,Historien om oss,Roman,Bok,Söderfilialen,2026-03-30,2026-04-17,18.0
+L0963,Barnens stora bok,Roman,Bok,Västerfilialen,2025-06-18,2025-07-05,17.0
+L0964,En annan värld,Historia,E-bok,Söderfilialen,2026-07-22,2026-08-12,21.0
+L0965,Vinter i staden,Roman,Bok,Barnbiblioteket,2025-02-27,2025-03-15,16.0
+L0966,Röster från förr,Deckare,Bok,Österfilialen,2025-03-04,2025-03-20,16.0
+L0967,Vinter i staden,Deckare,Ljudbok,Kulturhuset,2026-08-21,2026-09-16,26.0
+L0968,Röster från förr,Historia,Bok,Västerfilialen,2025-02-27,2025-03-23,24.0
+L0969,Den hemliga trädgården,Science fiction,Bok,Stadsbiblioteket,2025-03-09,2025-03-28,19.0
+L0970,Skuggor i natten,Roman,Bok,Stadsbiblioteket,2026-08-05,2026-08-25,20.0
+L0971,Vinter i staden,Roman,Bok,Söderfilialen,2025-11-21,2025-12-13,22.0
+L0972,Vinter i staden,Roman,Ljudbok,Kulturhuset,2026-05-24,2026-06-10,17.0
+L0973,Historien om oss,Deckare,E-bok,Barnbiblioteket,2026-03-23,2026-04-25,33.0
+L0974,Den sista resan,Fantasy,E-bok,Österfilialen,2025-02-18,2025-03-17,27.0
+L0975,Den sista resan,Deckare,Bok,Stadsbiblioteket,2026-08-16,2026-09-08,23.0
+L0976,Den hemliga trädgården,Roman,Bok,Västerfilialen,2025-11-06,2025-11-19,13.0
+L0977,En annan värld,Fantasy,Bok,Västerfilialen,2026-02-16,2026-02-23,7.0
+L0978,Mysteriet vid sjön,Biografi,Bok,Barnbiblioteket,2025-07-11,2025-07-27,16.0
+L0979,Barnens stora bok,Poesi,Bok,Söderfilialen,2025-10-02,2025-10-23,21.0
+L0980,Barnens stora bok,Roman,Bok,Stadsbiblioteket,2025-03-03,2025-03-16,13.0
+L0981,Historien om oss,Barnböcker,Bok,Österfilialen,2025-11-04,2025-12-03,29.0
+L0982,Den sista resan,Historia,Bok,Söderfilialen,2025-10-21,2025-11-05,15.0
+L0983,Barnens stora bok,Deckare,Bok,Österfilialen,2025-06-03,2025-06-15,12.0
+L0984,Historien om oss,Deckare,Bok,Stadsbiblioteket,2025-02-07,2025-03-02,23.0
+L0985,Den sista resan,Deckare,Ljudbok,Barnbiblioteket,2026-07-18,2026-08-06,19.0
+L0986,Vinter i staden,Biografi,Ljudbok,Österfilialen,2025-11-18,2025-12-09,21.0
+L0987,Den sista resan,Roman,Ljudbok,Österfilialen,2025-04-03,2025-04-24,21.0
+L0988,Mysteriet vid sjön,Historia,E-bok,Västerfilialen,2026-06-19,2026-07-19,30.0
+L0989,Röster från förr,Fantasy,Bok,Österfilialen,2025-04-03,2025-04-19,16.0
+L0990,Historien om oss,Poesi,Bok,Stadsbiblioteket,2025-08-30,2025-09-28,29.0
+L0991,En annan värld,Roman,Ljudbok,Stadsbiblioteket,2026-03-27,2026-04-06,10.0
+L0992,Stjärnornas väg,Roman,Bok,Stadsbiblioteket,2026-03-10,2026-03-28,18.0
+L0993,Barnens stora bok,Roman,Bok,Kulturhuset,2026-01-07,2026-02-25,49.0
+L0994,Historien om oss,Historia,Ljudbok,Stadsbiblioteket,2025-02-25,2025-03-05,8.0
+L0995,Den hemliga trädgården,Poesi,Bok,Österfilialen,2026-10-17,2026-11-17,31.0
+L0996,Den sista resan,Science fiction,Bok,Barnbiblioteket,2025-01-09,2025-02-08,30.0
+L0997,Barnens stora bok,Fantasy,Ljudbok,Stadsbiblioteket,2025-08-30,2025-09-14,15.0
+L0998,Mysteriet vid sjön,Barnböcker,Bok,Stadsbiblioteket,2026-02-21,2026-03-16,23.0
+L0999,Stjärnornas väg,Barnböcker,Tidskrift,Kulturhuset,2026-04-28,2026-05-05,7.0
+L1000,Röster från förr,Roman,Bok,Söderfilialen,2025-09-25,2025-10-23,28.0
+L1001,Stjärnornas väg,Roman,Bok,Stadsbiblioteket,2025-12-01,2025-12-15,14.0
+L1002,Stjärnornas väg,Roman,E-bok,Kulturhuset,2025-01-04,2025-01-17,13.0
+L1003,Vinter i staden,Roman,Tidskrift,Österfilialen,2025-09-13,2025-10-05,22.0
+L1004,Vinter i staden,Roman,Ljudbok,Stadsbiblioteket,2026-04-08,2026-04-15,7.0
+L1005,Livet mellan raderna,Deckare,Bok,Stadsbiblioteket,2025-10-16,2025-11-18,33.0
+L1006,Den sista resan,Poesi,Tidskrift,Västerfilialen,2025-01-22,2025-01-31,9.0
+L1007,Den sista resan,Deckare,Ljudbok,Stadsbiblioteket,2026-04-19,2026-05-03,14.0
+L1008,Mysteriet vid sjön,Deckare,E-bok,Stadsbiblioteket,2026-01-12,2026-02-06,25.0
+L1009,Mysteriet vid sjön,Deckare,Ljudbok,Stadsbiblioteket,2026-05-22,2026-06-19,28.0
+L1010,Historien om oss,Deckare,Ljudbok,Söderfilialen,2026-01-27,2026-02-07,11.0
+L1011,Livet mellan raderna,Roman,Bok,Stadsbiblioteket,2025-07-13,2025-08-01,19.0
+L1012,Vinter i staden,Biografi,E-bok,Stadsbiblioteket,2026-01-14,2026-02-09,26.0
+L1013,Skuggor i natten,Historia,Ljudbok,Västerfilialen,2026-02-12,2026-03-04,20.0
+L1014,Barnens stora bok,Fantasy,Bok,Barnbiblioteket,2025-02-23,2025-03-10,15.0
+L1015,Barnens stora bok,Barnböcker,Ljudbok,Stadsbiblioteket,2026-09-05,2026-09-19,14.0
+L1016,Stjärnornas väg,Deckare,Ljudbok,Stadsbiblioteket,2026-01-15,2026-02-04,20.0
+L1017,Historien om oss,Roman,Bok,Kulturhuset,2026-05-31,2026-06-30,30.0
+L1018,Historien om oss,Fantasy,Tidskrift,Söderfilialen,2025-04-30,2025-05-26,26.0
+L1019,Vinter i staden,Science fiction,Bok,Österfilialen,2026-01-05,2026-01-17,12.0
+L1020,Stjärnornas väg,Science fiction,Bok,Barnbiblioteket,2026-03-23,2026-04-05,13.0
+L1021,Skuggor i natten,Barnböcker,E-bok,Österfilialen,2026-07-24,2026-08-17,24.0
+L1022,Mysteriet vid sjön,Fantasy,Ljudbok,Kulturhuset,2026-04-27,2026-05-19,22.0
+L1023,Stjärnornas väg,Roman,Tidskrift,Söderfilialen,2025-02-11,2025-02-28,17.0
+L1024,Röster från förr,Fantasy,Bok,Stadsbiblioteket,2025-05-07,2025-05-28,21.0
+L1025,Bortom horisonten,Barnböcker,E-bok,Västerfilialen,2026-06-05,2026-08-09,65.0
+L1026,Vinter i staden,Roman,Bok,Västerfilialen,2025-07-04,2025-08-17,44.0
+L1027,Vinter i staden,Fantasy,Tidskrift,Stadsbiblioteket,2025-01-27,2025-02-05,9.0
+L1028,Barnens stora bok,Deckare,Bok,Västerfilialen,2025-06-07,2025-07-09,32.0
+L1029,Röster från förr,Biografi,Bok,Barnbiblioteket,2025-10-03,2025-10-14,11.0
+L1030,Skuggor i natten,Deckare,Ljudbok,Österfilialen,2026-08-06,2026-08-12,6.0
+L1031,Den hemliga trädgården,Biografi,E-bok,Stadsbiblioteket,2025-03-14,2025-04-03,20.0
+L1032,Barnens stora bok,Deckare,Bok,Kulturhuset,2025-04-02,2025-04-28,26.0
+L1033,Stjärnornas väg,Deckare,Bok,Kulturhuset,2025-06-07,2025-06-30,23.0
+L1034,Den hemliga trädgården,Historia,Ljudbok,Söderfilialen,2026-01-03,2026-01-18,15.0
+L1035,Barnens stora bok,Fantasy,E-bok,Stadsbiblioteket,2026-05-03,2026-05-18,15.0
+L1036,Barnens stora bok,Deckare,Bok,Barnbiblioteket,2026-03-13,2026-04-06,24.0
+L1037,Mysteriet vid sjön,Poesi,Bok,Västerfilialen,2025-06-08,2025-07-05,27.0
+L1038,En annan värld,Deckare,Bok,Österfilialen,2025-11-04,2025-11-28,24.0
+L1039,Den sista resan,Fantasy,Bok,Stadsbiblioteket,2026-03-14,2026-04-07,24.0
+L1040,Den sista resan,Historia,E-bok,Stadsbiblioteket,2026-04-21,2026-05-12,21.0
+L1041,Röster från förr,Deckare,Ljudbok,Kulturhuset,2026-05-31,2026-07-22,52.0
+L1042,Historien om oss,Fantasy,Ljudbok,Västerfilialen,2025-11-01,2025-11-08,7.0
+L1043,Barnens stora bok,Poesi,Ljudbok,Stadsbiblioteket,2025-12-16,2026-01-10,25.0
+L1044,Mysteriet vid sjön,Roman,Bok,Kulturhuset,2025-04-19,2025-06-24,66.0
+L1045,Bortom horisonten,Historia,Ljudbok,Barnbiblioteket,2026-04-17,2026-05-01,14.0
+L1046,Den sista resan,Historia,Tidskrift,Västerfilialen,2026-01-05,2026-01-21,16.0
+L1047,Barnens stora bok,Deckare,Bok,Österfilialen,2025-05-09,2025-06-27,49.0
+L1048,Livet mellan raderna,Historia,Bok,Söderfilialen,2025-05-29,2025-06-14,16.0
+L1049,Röster från förr,Fantasy,Bok,Söderfilialen,2025-03-30,2025-04-24,25.0
+L1050,Livet mellan raderna,Poesi,Bok,Österfilialen,2026-04-01,2026-04-22,
+L1051,Den hemliga trädgården,Biografi,Ljudbok,Stadsbiblioteket,2025-10-29,2025-11-28,30.0
+L1052,Mysteriet vid sjön,Barnböcker,E-bok,Söderfilialen,2026-05-23,2026-06-13,21.0
+L1053,Röster från förr,Roman,E-bok,Söderfilialen,2026-02-14,2026-03-01,15.0
+L1054,Barnens stora bok,Roman,Bok,Kulturhuset,2025-03-04,2025-03-13,9.0
+L1055,Stjärnornas väg,Science fiction,Bok,Söderfilialen,2026-03-04,2026-03-20,16.0
+L1056,Bortom horisonten,Barnböcker,Bok,Kulturhuset,2025-10-22,2025-11-05,14.0
+L1057,Den hemliga trädgården,Science fiction,Ljudbok,Västerfilialen,2025-12-14,2025-12-20,6.0
+L1058,Stjärnornas väg,Barnböcker,Ljudbok,Västerfilialen,2026-03-03,2026-03-26,23.0
+L1059,Mysteriet vid sjön,Deckare,Ljudbok,Stadsbiblioteket,2026-09-29,2026-10-15,16.0
+L1060,En annan värld,Barnböcker,Tidskrift,Söderfilialen,2025-04-14,2025-05-05,21.0
+L1061,En annan värld,Poesi,Bok,Stadsbiblioteket,2025-02-18,2025-03-09,19.0
+L1062,En annan värld,Barnböcker,Bok,Stadsbiblioteket,2025-02-02,2025-02-19,17.0
+L1063,Stjärnornas väg,Roman,Tidskrift,Österfilialen,2025-08-18,2025-09-09,22.0
+L1064,Mysteriet vid sjön,Biografi,Bok,Stadsbiblioteket,2026-06-12,2026-06-21,9.0
+L1065,En annan värld,Poesi,Ljudbok,Söderfilialen,2025-04-24,2025-05-17,23.0
+L1066,Röster från förr,Deckare,Bok,Stadsbiblioteket,2025-04-18,2025-05-06,18.0
+L1067,Stjärnornas väg,Barnböcker,Ljudbok,Söderfilialen,2025-10-27,2025-11-19,23.0
+L1068,Livet mellan raderna,Barnböcker,Bok,Kulturhuset,2025-05-06,2025-05-24,18.0
+L1069,Barnens stora bok,Fantasy,Bok,Stadsbiblioteket,2026-05-01,2026-05-13,12.0
+L1070,Den hemliga trädgården,Deckare,Ljudbok,Kulturhuset,2025-09-09,2025-10-08,29.0
+L1071,Mysteriet vid sjön,Science fiction,Ljudbok,Barnbiblioteket,2026-02-28,2026-03-10,10.0
+L1072,Vinter i staden,Barnböcker,Ljudbok,Söderfilialen,2025-05-30,2025-06-18,19.0
+L1073,Stjärnornas väg,Roman,Ljudbok,Kulturhuset,2025-11-19,2025-12-08,19.0
+L1074,En annan värld,Deckare,E-bok,Västerfilialen,2026-08-12,2026-09-03,22.0
+L1075,Vinter i staden,Roman,Ljudbok,Västerfilialen,2025-10-30,2025-11-27,28.0
+L1076,Den hemliga trädgården,Barnböcker,Ljudbok,Söderfilialen,2025-01-09,2025-01-22,13.0
+L1077,Barnens stora bok,Historia,Ljudbok,Söderfilialen,2026-04-02,2026-04-17,15.0
+L1078,Den hemliga trädgården,Barnböcker,Ljudbok,Stadsbiblioteket,2026-02-19,2026-03-06,15.0
+L1079,Barnens stora bok,Roman,Bok,Stadsbiblioteket,2025-05-10,2025-05-24,14.0
+L1080,Historien om oss,Deckare,Ljudbok,Söderfilialen,2025-06-13,2025-07-03,20.0
+L1081,Skuggor i natten,Poesi,Bok,Stadsbiblioteket,2026-03-09,2026-03-23,14.0
+L1082,Livet mellan raderna,Roman,E-bok,Stadsbiblioteket,2025-05-08,2025-06-05,28.0
+L1083,Historien om oss,Biografi,Ljudbok,Söderfilialen,2026-08-19,2026-08-30,11.0
+L1084,Vinter i staden,Historia,Ljudbok,Söderfilialen,2026-08-10,2026-08-29,19.0
+L1085,Den sista resan,Biografi,Ljudbok,Kulturhuset,2026-06-13,2026-07-13,30.0
+L1086,Vinter i staden,Deckare,Ljudbok,Söderfilialen,2025-04-05,2025-05-02,27.0
+L1087,Mysteriet vid sjön,Roman,E-bok,Österfilialen,2026-06-23,2026-07-20,27.0
+L1088,Mysteriet vid sjön,Barnböcker,Bok,Stadsbiblioteket,2026-05-17,2026-05-31,14.0
+L1089,Röster från förr,Deckare,Ljudbok,Österfilialen,2026-04-14,2026-05-08,24.0
+L1090,Den hemliga trädgården,Poesi,Bok,Barnbiblioteket,2025-06-10,2025-07-04,24.0
+L1091,Historien om oss,Deckare,E-bok,Stadsbiblioteket,2025-04-23,2025-05-17,24.0
+L1092,Skuggor i natten,Roman,Ljudbok,Stadsbiblioteket,2025-10-29,2025-11-24,26.0
+L1093,Skuggor i natten,Science fiction,Bok,Österfilialen,2025-11-09,2025-11-26,17.0
+L1094,Den hemliga trädgården,Roman,Bok,Kulturhuset,2026-03-04,2026-03-25,21.0
+L1095,Barnens stora bok,Barnböcker,Ljudbok,Stadsbiblioteket,2026-05-02,2026-05-29,27.0
+L1096,Bortom horisonten,Deckare,Ljudbok,Stadsbiblioteket,2026-04-05,2026-05-03,28.0
+L1097,Historien om oss,Roman,Ljudbok,Kulturhuset,2026-02-24,2026-03-27,31.0
+L1098,Röster från förr,Deckare,Bok,Stadsbiblioteket,2026-10-24,2026-11-16,23.0
+L1099,Skuggor i natten,Biografi,Bok,Söderfilialen,2025-11-13,2025-12-07,24.0
+L1100,En annan värld,Roman,Ljudbok,Söderfilialen,2026-08-07,2026-10-12,66.0
+L1101,Den sista resan,Poesi,Bok,Stadsbiblioteket,2025-07-04,2025-07-31,27.0
+L1102,Skuggor i natten,Biografi,Bok,Stadsbiblioteket,2026-07-01,2026-07-10,9.0
+L1103,Den sista resan,Roman,Bok,Österfilialen,2025-12-15,2026-01-02,18.0
+L1104,Historien om oss,Deckare,Bok,Stadsbiblioteket,2026-07-09,2026-08-03,25.0
+L1105,Den sista resan,Historia,Bok,Barnbiblioteket,2026-02-22,2026-03-19,25.0
+L1106,Den sista resan,Deckare,Ljudbok,Stadsbiblioteket,2025-11-24,2025-12-25,31.0
+L1107,Den sista resan,Deckare,Ljudbok,Söderfilialen,2025-02-23,2025-03-04,9.0
+L1108,Den hemliga trädgården,Deckare,Bok,Kulturhuset,2025-10-03,2025-10-24,21.0
+L1109,En annan värld,Fantasy,Ljudbok,Stadsbiblioteket,2026-10-11,2026-11-11,31.0
+L1110,Livet mellan raderna,Fantasy,Bok,Stadsbiblioteket,2025-05-09,2025-05-27,18.0
+L1111,Mysteriet vid sjön,Roman,Tidskrift,Österfilialen,2025-05-26,2025-06-08,13.0
+L1112,Stjärnornas väg,Deckare,Bok,Österfilialen,2025-02-12,2025-03-03,19.0
+L1113,Barnens stora bok,Deckare,Tidskrift,Stadsbiblioteket,2025-01-01,2025-01-21,20.0
+L1114,Bortom horisonten,Biografi,Bok,Stadsbiblioteket,2025-08-06,2025-09-06,31.0
+L1115,Den hemliga trädgården,Fantasy,Bok,Stadsbiblioteket,2025-03-13,2025-04-08,26.0
+L1116,Vinter i staden,Historia,Tidskrift,Kulturhuset,2025-08-04,2025-08-31,27.0
+L1117,Mysteriet vid sjön,Fantasy,Ljudbok,Kulturhuset,2026-10-13,2026-11-03,21.0
+L1118,Bortom horisonten,Fantasy,Ljudbok,Stadsbiblioteket,2026-09-06,2026-10-16,40.0
+L1119,Den hemliga trädgården,Deckare,Bok,Stadsbiblioteket,2026-05-03,2026-05-13,10.0
+L1120,Barnens stora bok,Deckare,Ljudbok,Västerfilialen,2026-07-06,2026-07-23,17.0
+L1121,Röster från förr,Historia,Bok,Österfilialen,2026-04-01,2026-04-25,24.0
+L1122,Skuggor i natten,Deckare,Bok,Stadsbiblioteket,2025-01-09,2025-03-03,53.0
+L1123,Livet mellan raderna,Historia,Ljudbok,Stadsbiblioteket,2025-10-15,2025-11-08,24.0
+L1124,Röster från förr,Poesi,Tidskrift,Stadsbiblioteket,2025-08-28,2025-09-09,12.0
+L1125,Mysteriet vid sjön,Deckare,Bok,Österfilialen,2026-09-13,2026-09-22,9.0
+L1126,Bortom horisonten,Biografi,E-bok,Söderfilialen,2025-06-24,2025-07-23,29.0
+L1127,En annan värld,Deckare,Bok,Stadsbiblioteket,2025-06-29,2025-07-19,20.0
+L1128,En annan värld,Deckare,Ljudbok,Barnbiblioteket,2025-10-08,2025-11-07,30.0
+L1129,Skuggor i natten,Fantasy,E-bok,Kulturhuset,2026-09-22,2026-10-22,30.0
+L1130,Mysteriet vid sjön,Roman,Tidskrift,Stadsbiblioteket,2025-11-27,2025-12-14,17.0
+L1131,Mysteriet vid sjön,Roman,Ljudbok,Österfilialen,2026-05-23,2026-06-13,21.0
+L1132,Skuggor i natten,Deckare,Bok,Stadsbiblioteket,2025-11-20,2025-12-16,26.0
+L1133,Barnens stora bok,Poesi,Bok,Stadsbiblioteket,2025-08-20,2025-09-10,21.0
+L1134,Barnens stora bok,Deckare,Bok,Österfilialen,2026-10-03,2026-10-28,25.0
+L1135,En annan värld,Barnböcker,Bok,Söderfilialen,2025-12-09,2026-01-11,33.0
+L1136,Barnens stora bok,Poesi,Ljudbok,Söderfilialen,2025-08-31,2025-09-17,17.0
+L1137,Den sista resan,Biografi,Bok,Stadsbiblioteket,2026-04-03,2026-04-29,26.0
+L1138,Den hemliga trädgården,Deckare,Ljudbok,Stadsbiblioteket,2025-05-11,2025-06-02,22.0
+L1139,Den hemliga trädgården,Deckare,Bok,Stadsbiblioteket,2025-03-09,2025-04-03,25.0
+L1140,Mysteriet vid sjön,Science fiction,Ljudbok,Söderfilialen,2025-08-27,2025-09-11,15.0
+L1141,Vinter i staden,Science fiction,E-bok,Kulturhuset,2026-03-15,2026-04-16,32.0
+L1142,Livet mellan raderna,Deckare,Bok,Söderfilialen,2026-08-25,2026-09-10,16.0
+L1143,Stjärnornas väg,Deckare,Bok,Kulturhuset,2026-08-10,2026-08-21,11.0
+L1144,Vinter i staden,Deckare,Bok,Kulturhuset,2025-02-15,2025-03-09,22.0
+L1145,Skuggor i natten,Biografi,Bok,Stadsbiblioteket,2025-11-15,2025-11-26,11.0
+L1146,En annan värld,Biografi,Ljudbok,Stadsbiblioteket,2026-06-15,2026-07-07,22.0
+L1147,Barnens stora bok,Roman,Bok,Stadsbiblioteket,2025-02-25,2025-03-28,31.0
+L1148,Bortom horisonten,Historia,Tidskrift,Söderfilialen,2026-05-03,2026-05-17,14.0
+L1149,Skuggor i natten,Poesi,E-bok,Kulturhuset,2026-08-03,2026-08-28,25.0
+L1150,Bortom horisonten,Deckare,Bok,Stadsbiblioteket,2026-05-23,2026-06-19,27.0
+L1151,Stjärnornas väg,Fantasy,Ljudbok,Barnbiblioteket,2025-08-07,2025-08-22,15.0
+L1152,Historien om oss,Roman,Bok,Stadsbiblioteket,2025-01-07,2025-02-07,31.0
+L1153,Stjärnornas väg,Deckare,E-bok,Västerfilialen,2026-03-27,2026-04-18,22.0
+L1154,Stjärnornas väg,Science fiction,Ljudbok,Kulturhuset,2025-08-13,2025-09-03,21.0
+L1155,Den sista resan,Deckare,Ljudbok,Barnbiblioteket,2025-07-20,2025-08-20,31.0
+L1156,Barnens stora bok,Poesi,Bok,Stadsbiblioteket,2025-12-13,2026-01-04,22.0
+L1157,Stjärnornas väg,Poesi,Tidskrift,Barnbiblioteket,2025-06-25,2025-07-26,31.0
+L1158,Bortom horisonten,Barnböcker,Bok,Kulturhuset,2025-05-14,2025-05-25,11.0
+L1159,Stjärnornas väg,Poesi,Bok,Stadsbiblioteket,2026-03-16,2026-04-02,17.0
+L1160,En annan värld,Fantasy,E-bok,Stadsbiblioteket,2025-12-02,2025-12-19,17.0
+L1161,En annan värld,Science fiction,Bok,Stadsbiblioteket,2026-08-22,2026-09-01,10.0
+L1162,Mysteriet vid sjön,Barnböcker,E-bok,Söderfilialen,2026-02-02,2026-02-24,22.0
+L1163,Den hemliga trädgården,Fantasy,Bok,Västerfilialen,2025-07-03,2025-07-22,19.0
+L1164,Livet mellan raderna,Science fiction,E-bok,Stadsbiblioteket,2026-10-16,2026-10-29,13.0
+L1165,Vinter i staden,Science fiction,Bok,Kulturhuset,2026-04-08,2026-05-05,27.0
+L1166,Vinter i staden,Biografi,Bok,Stadsbiblioteket,2025-09-18,2025-10-03,15.0
+L1167,Mysteriet vid sjön,Biografi,Bok,Söderfilialen,2025-08-24,2025-09-06,13.0
+L1168,Den sista resan,Fantasy,Bok,Kulturhuset,2025-11-21,2025-12-15,24.0
+L1169,Livet mellan raderna,Science fiction,Bok,Söderfilialen,2026-01-03,2026-01-21,18.0
+L1170,Barnens stora bok,Deckare,Bok,Söderfilialen,2025-04-11,2025-05-01,20.0
+L1171,Stjärnornas väg,Fantasy,Ljudbok,Västerfilialen,2025-12-04,2025-12-27,23.0
+L1172,Den hemliga trädgården,Science fiction,Bok,Kulturhuset,2026-07-11,2026-07-28,17.0
+L1173,Den hemliga trädgården,Barnböcker,Ljudbok,Stadsbiblioteket,2026-02-20,2026-03-01,9.0
+L1174,En annan värld,Fantasy,Ljudbok,Söderfilialen,2025-08-22,2025-08-25,3.0
+L1175,Röster från förr,Barnböcker,Bok,Österfilialen,2026-04-25,2026-05-14,19.0
+L1176,Bortom horisonten,Deckare,Bok,Söderfilialen,2026-03-04,2026-03-29,25.0
+L1177,Den hemliga trädgården,Fantasy,Ljudbok,Söderfilialen,2025-05-12,2025-05-29,17.0
+L1178,Bortom horisonten,Barnböcker,Ljudbok,Kulturhuset,2026-02-18,2026-03-05,15.0
+L1179,Bortom horisonten,Science fiction,Bok,Barnbiblioteket,2025-02-02,2025-02-18,16.0
+L1180,En annan värld,Science fiction,Tidskrift,Stadsbiblioteket,2026-08-11,2026-09-09,29.0
+L1181,Den sista resan,Deckare,Bok,Söderfilialen,2026-01-31,2026-02-06,6.0
+L1182,Den sista resan,Deckare,Ljudbok,Söderfilialen,2026-07-21,2026-09-05,46.0
+L1183,Stjärnornas väg,Fantasy,Bok,Västerfilialen,2026-01-31,2026-02-23,23.0
+L1184,En annan värld,Barnböcker,Bok,Stadsbiblioteket,2025-12-01,2025-12-23,22.0
+L1185,Den hemliga trädgården,Roman,Bok,Barnbiblioteket,2026-03-05,2026-03-28,23.0
+L1186,Röster från förr,Deckare,E-bok,Kulturhuset,2026-05-02,2026-05-20,18.0
+L1187,En annan värld,Fantasy,Bok,Stadsbiblioteket,2026-04-15,2026-05-12,27.0
+L1188,Röster från förr,Science fiction,Ljudbok,Kulturhuset,2025-12-03,2025-12-26,23.0
+L1189,Bortom horisonten,Fantasy,Ljudbok,Kulturhuset,2025-04-04,2025-04-21,17.0
+L1190,Den hemliga trädgården,Roman,Bok,Söderfilialen,2025-06-29,2025-07-09,10.0
+L1191,Barnens stora bok,Historia,Bok,Västerfilialen,2025-07-07,2025-08-11,35.0
+L1192,Livet mellan raderna,Fantasy,Ljudbok,Västerfilialen,2026-07-05,2026-07-29,24.0
+L1193,Vinter i staden,Roman,Ljudbok,Stadsbiblioteket,2026-05-21,2026-06-03,13.0
+L1194,Den sista resan,Roman,Bok,Söderfilialen,2026-02-24,2026-03-25,29.0
+L1195,Skuggor i natten,Historia,Ljudbok,Kulturhuset,2026-10-17,2026-11-06,20.0
+L1196,Mysteriet vid sjön,Deckare,Ljudbok,Kulturhuset,2025-09-14,2025-09-21,7.0
+L1197,Stjärnornas väg,Deckare,Bok,Stadsbiblioteket,2026-04-18,2026-05-12,24.0
+L1198,Röster från förr,Barnböcker,E-bok,Stadsbiblioteket,2025-06-24,2025-07-13,19.0
+L1199,Röster från förr,Deckare,Ljudbok,Stadsbiblioteket,2026-02-05,2026-02-24,19.0
+L1200,En annan värld,Science fiction,Bok,Kulturhuset,2025-02-05,2025-04-09,63.0
