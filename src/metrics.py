@@ -21,6 +21,7 @@ def overdue_rate(df: pd.DataFrame) -> float:
 # LÅN PER GENRE
 def loans_by_genre(df: pd.DataFrame) -> pd.DataFrame: # vi talar om att vi kommer skicka funktionen en df, och att den kommer returnera en df
     """
+    Vad lånas mest
     Delar upp raderna per genre och räknar lån i varje grupp
     """
     return (
@@ -35,6 +36,7 @@ def loans_by_genre(df: pd.DataFrame) -> pd.DataFrame: # vi talar om att vi komme
 
 def loans_by_branch(df: pd.DataFrame) -> pd.DataFrame:
     """
+    Var lånas det mest
     Delar upp raderna per branch (filial) och räknar lån i varje grupp
     """
     return (
@@ -43,3 +45,20 @@ def loans_by_branch(df: pd.DataFrame) -> pd.DataFrame:
         .sort_values(ascending=False) # i fallande ordning (stigning=falsk)
         .reset_index(name="loans") # flyttar branch från index till vanlig kolumn
     )
+
+def loans_over_time (df: pd.DataFrame, freq: str="ME") -> pd.DataFrame:
+    """
+    När lånas det?
+    Delar upp 
+    """
+    ts = (
+        df.set_index("checkout_date") # gör (datum) checkout_date till index, för att vi ska kunna använda .resample()
+        .sort_index() # sorterar datumen i tidsordning
+        .resample(freq)["loan_id"] # räknar lån per period
+        .nunique() # räknar antalet unika låne-id:n i varje tidsperiod
+        .rename("loans") # döper resultatkolumnen till loans. Utan .rename("loans") hade kolumnen fått namnet loan_id, eftersom det är den kolumn du valde här
+        .reset_index() # först använder vi datumet (set_index) som index för att kunna göra tidsberäkningen
+        # när beräkningen är klar använder vi reset_index() för att göra datumet till en vanlig kolumn igen
+    )
+    return ts
+        
